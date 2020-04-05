@@ -1,0 +1,7726 @@
+[
+  {
+    "type" : "armor",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Adamantine Armor",
+    "priceGP" : 500,
+    "page" : "150"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Alchemy Jug",
+    "priceGP" : 6000,
+    "page" : "150"
+  },
+  {
+    "type" : "ammunition",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Ammunition +1 (Ea)",
+    "priceGP" : 25,
+    "page" : "150"
+  },
+  {
+    "type" : "ammunition",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ammunition +2 (Ea)",
+    "priceGP" : 100,
+    "page" : "150"
+  },
+  {
+    "type" : "ammunition",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ammunition +3 (Ea)",
+    "priceGP" : 400,
+    "page" : "150"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Apparatus Of Kwalish",
+    "priceGP" : 10000,
+    "page" : "151"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "BR",
+    "name" : "Apparatus Of The Crab",
+    "priceGP" : 10000,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Armor Of Gleaming (any medium or heavy)",
+    "priceGP" : 75,
+    "page" : "136"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Armor +1",
+    "priceGP" : 1500,
+    "page" : "152"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Armor +2",
+    "priceGP" : 6000,
+    "page" : "152"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Armor +3",
+    "priceGP" : 24000,
+    "page" : "152"
+  },
+  {
+    "type" : "ammunition",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Arrow Of Slaying (Ea)",
+    "priceGP" : 600,
+    "page" : "152"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Bag Of Beans",
+    "priceGP" : 4200,
+    "page" : "152"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "WGE",
+    "name" : "Bag Of Bounty",
+    "priceGP" : 261,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Bag Of Bounty",
+    "priceGP" : 238,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Bag Of Devouring",
+    "priceGP" : 12000,
+    "page" : "153"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Bag Of Holding",
+    "priceGP" : 4000,
+    "page" : "153"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Bag Of Tricks",
+    "priceGP" : 350,
+    "page" : "154"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "TYP",
+    "name" : "Balance Of Harmony",
+    "priceGP" : 200,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "PA",
+    "name" : "Balloon Pack",
+    "priceGP" : 275,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Bead Of Force",
+    "priceGP" : 960,
+    "page" : "154"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Bead Of Nourishment",
+    "priceGP" : 25,
+    "page" : "136"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Bead Of Refreshment",
+    "priceGP" : 25,
+    "page" : "136"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "SDW",
+    "name" : "Bonecounter",
+    "priceGP" : 1705,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "BR",
+    "name" : "Boomerang +1",
+    "priceGP" : 234,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "BR",
+    "name" : "Boomerang +2",
+    "priceGP" : 143,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Boomerang +3",
+    "priceGP" : 999,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Boots Of Elvenkind",
+    "priceGP" : 2500,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Boots Of False Tracks",
+    "priceGP" : 60,
+    "page" : "136"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "PA",
+    "name" : "Bottled Breath",
+    "priceGP" : 350,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Bowl Of Commanding Water Elementals",
+    "priceGP" : 8000,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Brazier Of Commanding Fire Elementals",
+    "priceGP" : 8000,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Broom Of Flying",
+    "priceGP" : 8000,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Candle Of The Deep",
+    "priceGP" : 50,
+    "page" : "136"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Cap Of Water Breathing",
+    "priceGP" : 1000,
+    "page" : "157"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Cape Of The Mountebank",
+    "priceGP" : 8000,
+    "page" : "157"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Carpet Of Flying",
+    "priceGP" : 12000,
+    "page" : "157"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "AI",
+    "name" : "Cartographers Map Case",
+    "priceGP" : 76,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Cast Off Armor",
+    "priceGP" : 50,
+    "page" : "136"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Censer Of Controlling Air Elementals",
+    "priceGP" : 8000,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "DMM",
+    "name" : "Chest Of Preserving",
+    "priceGP" : 75,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Chime Of Opening",
+    "priceGP" : 1500,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Circlet Of Blasting",
+    "priceGP" : 1500,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Cleansing Stone",
+    "priceGP" : 93,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Cleansing Stone",
+    "priceGP" : 51,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Cloak Of Billowing",
+    "priceGP" : 100,
+    "page" : "136"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Cloak Of Many Fashions",
+    "priceGP" : 90,
+    "page" : "136"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Cloak Of The Manta Ray",
+    "priceGP" : 6000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Clockwork Amulet",
+    "priceGP" : 100,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Clothes Of Mending",
+    "priceGP" : 50,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Cubic Gate",
+    "priceGP" : 40000,
+    "page" : "160"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Daern's Instant Fortress",
+    "priceGP" : 75000,
+    "page" : "160"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Dagger Of Venom",
+    "priceGP" : 2500,
+    "page" : "160"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Decanter Of Endless Water",
+    "priceGP" : 135000,
+    "page" : "160"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Deck Of Illusions",
+    "priceGP" : 6120,
+    "page" : "161"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Deck Of Many Things",
+    "priceGP" : 200000,
+    "page" : "162"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "LLK",
+    "name" : "Deck Of Several Things",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "PA",
+    "name" : "Devastation Orb (Air)",
+    "priceGP" : 8000,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "PA",
+    "name" : "Devastation Orb (Earth)",
+    "priceGP" : 11000,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "PA",
+    "name" : "Devastation Orb (Fire)",
+    "priceGP" : 9500,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "PA",
+    "name" : "Devastation Orb (Water)",
+    "priceGP" : 9500,
+    "page" : "223"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "WGE",
+    "name" : "Dimensional Seal",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EBR",
+    "name" : "Dimensional Seal",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Dimensional Shackles",
+    "priceGP" : 3000,
+    "page" : "165"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMM",
+    "name" : "Dodecahedron Of Doom",
+    "priceGP" : 507,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Dragon Slayer (any sword)",
+    "priceGP" : 8000,
+    "page" : "166"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "LMP",
+    "name" : "Dragonguard",
+    "priceGP" : 3057,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "RT",
+    "name" : "Dragontooth Dagger",
+    "priceGP" : 5000,
+    "page" : "93"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Dread Helm",
+    "priceGP" : 55,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Driftglobe",
+    "priceGP" : 750,
+    "page" : "166"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Dust Of Disappearance",
+    "priceGP" : 300,
+    "page" : "166"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Dust Of Dryness (1 pellet)",
+    "priceGP" : 120,
+    "page" : "166"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Dust Of Sneezing And Choking",
+    "priceGP" : 480,
+    "page" : "166"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Dwarven Plate",
+    "priceGP" : 9000,
+    "page" : "167"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Eagle Whistle",
+    "priceGP" : 600,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Ear Horn Of Hearing",
+    "priceGP" : 75,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "BR",
+    "name" : "Efficient Quiver",
+    "priceGP" : 137,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Efreeti Bottle",
+    "priceGP" : 45000,
+    "page" : "167"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "AI",
+    "name" : "Elder Cartographers Glossography",
+    "priceGP" : 464,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Elemental Gem",
+    "priceGP" : 960,
+    "page" : "167"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Elixir Of Health",
+    "priceGP" : 120,
+    "page" : "168"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Elven Chain",
+    "priceGP" : 4000,
+    "page" : "168"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Enduring Spellbook",
+    "priceGP" : 100,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Everbright Lantern",
+    "priceGP" : 82,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Everbright Lantern",
+    "priceGP" : 94,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Eversmoking Bottle",
+    "priceGP" : 1000,
+    "page" : "168"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Eyes Of Minute Seeing",
+    "priceGP" : 2500,
+    "page" : "168"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Feather Token",
+    "priceGP" : 3961,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Feather Token (Feather Fall)",
+    "priceGP" : 89,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Feather Token Feather Fall",
+    "priceGP" : 84,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Bronze Griffon)",
+    "priceGP" : 8000,
+    "page" : "169"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Ebony Fly)",
+    "priceGP" : 6000,
+    "page" : "169"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Golden Lions)",
+    "priceGP" : 600,
+    "page" : "169"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Ivory Goats - Terror)",
+    "priceGP" : 20000,
+    "page" : "169"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Ivory Goats - Travail)",
+    "priceGP" : 400,
+    "page" : "169"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Ivory Goats - Travelling)",
+    "priceGP" : 1000,
+    "page" : "169"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Marble Elephant)",
+    "priceGP" : 6000,
+    "page" : "170"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Obsidian Steed)",
+    "priceGP" : 128000,
+    "page" : "170"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Onyx Dog)",
+    "priceGP" : 3000,
+    "page" : "170"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Serpentine Owl)",
+    "priceGP" : 8000,
+    "page" : "170"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Figurine of Wondrous Power (Silver Raven)",
+    "priceGP" : 5000,
+    "page" : "170"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Folding Boat",
+    "priceGP" : 10000,
+    "page" : "170"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Gem Of Brightness",
+    "priceGP" : 5000,
+    "page" : "171"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Giant Slayer (any sword or axe)",
+    "priceGP" : 7000,
+    "page" : "172"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Glamerweave",
+    "priceGP" : 74,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Glamoured Studded Leather",
+    "priceGP" : 2000,
+    "page" : "172"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Gloves Of Thievery",
+    "priceGP" : 5000,
+    "page" : "172"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Goggles Of Night",
+    "priceGP" : 1500,
+    "page" : "172"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Guild Charms",
+    "priceGP" : 450,
+    "page" : "173"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Handy Haversack",
+    "priceGP" : 2000,
+    "page" : "174"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Hat Of Vermin",
+    "priceGP" : 65,
+    "page" : "137"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "BGA",
+    "name" : "Hellfire Weapon",
+    "priceGP" : 350,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Helm Of Comprehending Languages",
+    "priceGP" : 500,
+    "page" : "173"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "LMP",
+    "name" : "Hew",
+    "priceGP" : 228,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Heward's Handy Haversack",
+    "priceGP" : 2000,
+    "page" : "174"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Heward's Handy Spice Pouch",
+    "priceGP" : 100,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Horn Of Blasting",
+    "priceGP" : 450,
+    "page" : "174"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Horn Of Silent Alarm",
+    "priceGP" : 85,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMM",
+    "name" : "Horn Of The Endless Maze",
+    "priceGP" : 1425,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Horn Of Valhalla (Brass)",
+    "priceGP" : 8400,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Horn Of Valhalla (Bronze)",
+    "priceGP" : 11200,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Horn Of Valhalla (Iron)",
+    "priceGP" : 14000,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Horn Of Valhalla (Silver)",
+    "priceGP" : 5600,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Horseshoes Of A Zephyr",
+    "priceGP" : 1500,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Horseshoes Of Speed",
+    "priceGP" : 5000,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "BGA",
+    "name" : "Infernal Puzzle Box",
+    "priceGP" : 324,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "HDQ",
+    "name" : "Insignia Of Claws",
+    "priceGP" : 450,
+    "page" : "94"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Instant Fortress",
+    "priceGP" : 2688,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Iron Bands Of Bilarro",
+    "priceGP" : 4000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Iron Bands Of Binding",
+    "priceGP" : 4000,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Iron Flask",
+    "priceGP" : 170000,
+    "page" : "178"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Javelin Of Lightning",
+    "priceGP" : 1500,
+    "page" : "178"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Keoghtom's Ointment (Per Dose)",
+    "priceGP" : 120,
+    "page" : "179"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "",
+    "name" : "Keycharm",
+    "priceGP" : 96,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Lantern Of Revealing",
+    "priceGP" : 5000,
+    "page" : "179"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "LMP",
+    "name" : "Lightbringer",
+    "priceGP" : 306,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Loadstone",
+    "priceGP" : 150,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Lock Of Trickery",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Mace Of Smiting",
+    "priceGP" : 7000,
+    "page" : "179"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Manual Of Bodily Health",
+    "priceGP" : 36000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Manual Of Gainful Exercise",
+    "priceGP" : 36000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Manual Of Golems",
+    "priceGP" : 22000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Manual Of Quickness Of Action",
+    "priceGP" : 36000,
+    "page" : "181"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Mariner's Armor",
+    "priceGP" : 1500,
+    "page" : "181"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "BR",
+    "name" : "Marvelous Pigments",
+    "priceGP" : 22786,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "TA",
+    "name" : "Mask Of The Beast",
+    "priceGP" : 200,
+    "page" : "207"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Master's Amulet",
+    "priceGP" : 2984,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Mirror Of Life Trapping",
+    "priceGP" : 18000,
+    "page" : "181"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Mirror Of The Past",
+    "priceGP" : 3800,
+    "page" : "228"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Mithral Armor (medium or heavy not hide)",
+    "priceGP" : 800,
+    "page" : "182"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "AI",
+    "name" : "Mithral Half Plate +1",
+    "priceGP" : 2920,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Mizzium Armor",
+    "priceGP" : 1500,
+    "page" : "179"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Mizzium Mortar",
+    "priceGP" : 2100,
+    "page" : "179"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "GGR",
+    "name" : "Moodmark Paint",
+    "priceGP" : 50,
+    "page" : "180"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Moon-Touched Sword",
+    "priceGP" : 75,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Mystery Key",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace of Fireballs (1 Bead)",
+    "priceGP" : 300,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace of Fireballs (2 Beads)",
+    "priceGP" : 480,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace of Fireballs (3 Beads)",
+    "priceGP" : 960,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace of Fireballs (4 Beads)",
+    "priceGP" : 1600,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace of Fireballs (5 Beads)",
+    "priceGP" : 3840,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace of Fireballs (6 Beads)",
+    "priceGP" : 7680,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "TYP",
+    "name" : "Night Caller",
+    "priceGP" : 350,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Nolzur's Marvelous Pigments",
+    "priceGP" : 200,
+    "page" : "183"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "BGA",
+    "name" : "Obsidian Flint Dragon Plate",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Oil Of Etherealness",
+    "priceGP" : 1920,
+    "page" : "183"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Oil Of Sharpness",
+    "priceGP" : 3200,
+    "page" : "184"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Oil Of Slipperiness",
+    "priceGP" : 480,
+    "page" : "184"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Orb Of Direction",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "DMM",
+    "name" : "Orb Of Gonging",
+    "priceGP" : 61,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Orb Of Time",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "WDH",
+    "name" : "Paper Bird",
+    "priceGP" : 350,
+    "page" : "191"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Perfume Of Bewitching",
+    "priceGP" : 75,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Periapt Of Health",
+    "priceGP" : 5000,
+    "page" : "184"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Periapt Of Proof Against Poison",
+    "priceGP" : 5000,
+    "page" : "184"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Philter Of Love",
+    "priceGP" : 90,
+    "page" : "184"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "GoS",
+    "name" : "Pipe Of Remembrance",
+    "priceGP" : 70,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Pipe Of Smoke Monsters",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Pipes Of Haunting",
+    "priceGP" : 6000,
+    "page" : "185"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Pole Of Angling",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Pole Of Collapsing",
+    "priceGP" : 55,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Portable Hole",
+    "priceGP" : 8000,
+    "page" : "185"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Pot Of Awakening",
+    "priceGP" : 85,
+    "page" : "138"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Animal Friendship",
+    "priceGP" : 200,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Clairvoyance",
+    "priceGP" : 960,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "common",
+    "source" : "DMG",
+    "name" : "Potion Of Climbing",
+    "priceGP" : 180,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "common",
+    "source" : "WDH",
+    "name" : "Potion Of Comprehension",
+    "priceGP" : 90,
+    "page" : ""
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Diminution",
+    "priceGP" : 270,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Fire Breath",
+    "priceGP" : 150,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Potion Of Flying",
+    "priceGP" : 500,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Gaseous Form",
+    "priceGP" : 300,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "legendary",
+    "source" : "SKT",
+    "name" : "Potion Of Giant Size",
+    "priceGP" : 11000,
+    "page" : "236"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Giant Strength (Cloud)",
+    "priceGP" : 1800,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Giant Strength (Fire)",
+    "priceGP" : 1200,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Giant Strength (Frost\/Stone)",
+    "priceGP" : 650,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Giant Strength (Hill)",
+    "priceGP" : 125,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Giant Strength (Storm)",
+    "priceGP" : 8000,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Growth",
+    "priceGP" : 270,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "common",
+    "source" : "DMG",
+    "name" : "Potion Of Healing",
+    "priceGP" : 50,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Healing (Greater)",
+    "priceGP" : 150,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Potion Of Healing (Superior)",
+    "priceGP" : 450,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Potion Of Healing (Supreme)",
+    "priceGP" : 1350,
+    "page" : "187"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Heroism",
+    "priceGP" : 180,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Potion Of Invisibility",
+    "priceGP" : 180,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Invulnerability",
+    "priceGP" : 3840,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Potion Of Longevity",
+    "priceGP" : 9000,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Potion Of Mind Control (Beast)",
+    "priceGP" : 1600,
+    "page" : "229"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Potion Of Mind Control (Humanoid)",
+    "priceGP" : 2500,
+    "page" : "229"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "TYP",
+    "name" : "Potion Of Mind Control (Monster)",
+    "priceGP" : 6000,
+    "page" : "229"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Mind Reading",
+    "priceGP" : 180,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Poison",
+    "priceGP" : 100,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Resistance",
+    "priceGP" : 300,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Potion Of Speed",
+    "priceGP" : 400,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Potion Of Vitality",
+    "priceGP" : 960,
+    "page" : "188"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "common",
+    "source" : "WDH",
+    "name" : "Potion Of Watchful Rest",
+    "priceGP" : 96,
+    "page" : ""
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Potion Of Water Breathing",
+    "priceGP" : 180,
+    "page" : "188"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "GoS",
+    "name" : "Pressure Capsule",
+    "priceGP" : 72,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMM",
+    "name" : "Professor Orb",
+    "priceGP" : 1343,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Quaals Feather Token (Anchor)",
+    "priceGP" : 50,
+    "page" : "188"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Quaals Feather Token (Bird)",
+    "priceGP" : 3000,
+    "page" : "188"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Quaals Feather Token (Fan)",
+    "priceGP" : 250,
+    "page" : "188"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Quaals Feather Token (Swan Boat)",
+    "priceGP" : 3000,
+    "page" : "188"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Quaals Feather Token (Whip)",
+    "priceGP" : 250,
+    "page" : "188"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Quiver Of Ehlonna",
+    "priceGP" : 1000,
+    "page" : "189"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "BR",
+    "name" : "Restorative Ointment",
+    "priceGP" : 304,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Revenant Double Bladed Scimitar",
+    "priceGP" : 84,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Revenant Double-Bladed Scimitar",
+    "priceGP" : 74,
+    "page" : ""
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Animal Influence",
+    "priceGP" : 4000,
+    "page" : "189"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Ring Of Swimming",
+    "priceGP" : 3000,
+    "page" : "193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Three Wishes",
+    "priceGP" : 97950,
+    "page" : "193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Ring Of Water Walking",
+    "priceGP" : 1500,
+    "page" : "193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "WGE",
+    "name" : "Rings Of Shared Suffering",
+    "priceGP" : 152,
+    "page" : ""
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Rings Of Shared Suffering",
+    "priceGP" : 338,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Robe Of Useful Items",
+    "priceGP" : 400,
+    "page" : "195"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Rod Of Security",
+    "priceGP" : 90000,
+    "page" : "197"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Rope Of Climbing",
+    "priceGP" : 2000,
+    "page" : "197"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Rope Of Entanglement",
+    "priceGP" : 4000,
+    "page" : "197"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Rope Of Mending",
+    "priceGP" : 50,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Saddle Of The Cavalier",
+    "priceGP" : 2000,
+    "page" : "199"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Scribe's Pen",
+    "priceGP" : 61,
+    "page" : ""
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Scroll Of Protection",
+    "priceGP" : 180,
+    "page" : "199"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "PA",
+    "name" : "Seeker Dart",
+    "priceGP" : 100,
+    "page" : "223"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "GoS",
+    "name" : "Sekolahian Worshiping Statuette",
+    "priceGP" : 88,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "AI",
+    "name" : "Sending Stone",
+    "priceGP" : 418,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Sending Stones",
+    "priceGP" : 2000,
+    "page" : "199"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Sentinel Shield",
+    "priceGP" : 20000,
+    "page" : "199"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Shield Of Expression",
+    "priceGP" : 50,
+    "page" : "139"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "rare",
+    "source" : "VGM",
+    "name" : "Shield Of Far Sight",
+    "priceGP" : 4986,
+    "page" : ""
+  },
+  {
+    "type" : "shields",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Shield +1",
+    "priceGP" : 1500,
+    "page" : "200"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Shield +2",
+    "priceGP" : 6000,
+    "page" : "200"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Shield +3",
+    "priceGP" : 24000,
+    "page" : "200"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Shiftweave",
+    "priceGP" : 57,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Shiftweave",
+    "priceGP" : 75,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "WDH",
+    "name" : "Smokepowder",
+    "priceGP" : 325,
+    "page" : "192"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Smoldering Armor",
+    "priceGP" : 75,
+    "page" : "139"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "BGA",
+    "name" : "Soul Coin",
+    "priceGP" : 151,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Sovereign Glue",
+    "priceGP" : 400,
+    "page" : "200"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "WGE",
+    "name" : "Speaking Stone",
+    "priceGP" : 326,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "EBR",
+    "name" : "Speaking Stone",
+    "priceGP" : 2385,
+    "page" : ""
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "common",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 0)",
+    "priceGP" : 10,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "common",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 1)",
+    "priceGP" : 60,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 2)",
+    "priceGP" : 120,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 3)",
+    "priceGP" : 200,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 4)",
+    "priceGP" : 320,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 5)",
+    "priceGP" : 640,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 6)",
+    "priceGP" : 1280,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 7)",
+    "priceGP" : 2560,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 8)",
+    "priceGP" : 5120,
+    "page" : "200"
+  },
+  {
+    "type" : "spell scrolls",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Spell Scroll (Level 9)",
+    "priceGP" : 10240,
+    "page" : "200"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "WGE",
+    "name" : "Spell Sink",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EBR",
+    "name" : "Spell Sink",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Spellshard",
+    "priceGP" : 79,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Spellshard",
+    "priceGP" : 54,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Sphere Of Annihilation",
+    "priceGP" : 15000,
+    "page" : "201"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "AI",
+    "name" : "Spyglass Of Clairvoyance",
+    "priceGP" : 54,
+    "page" : ""
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Staff Of Adornment",
+    "priceGP" : 50,
+    "page" : "139"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Staff Of Birdcalls",
+    "priceGP" : 70,
+    "page" : "139"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Staff Of Flowers",
+    "priceGP" : 50,
+    "page" : "139"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Stone Of Controlling Earth Elementals",
+    "priceGP" : 8000,
+    "page" : "205"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "PA",
+    "name" : "Storm Boomerang",
+    "priceGP" : 150,
+    "page" : "223"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "HDQ",
+    "name" : "Tankard Of Plenty",
+    "priceGP" : 73,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Tankard Of Sobriety",
+    "priceGP" : 80,
+    "page" : "139"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Tome Of Clear Thought",
+    "priceGP" : 36000,
+    "page" : "208"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Tome Of Leadership And Influence",
+    "priceGP" : 36000,
+    "page" : "208"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Tome Of Understanding",
+    "priceGP" : 36000,
+    "page" : "209"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "AI",
+    "name" : "Travel Alchemical Kit",
+    "priceGP" : 472,
+    "page" : ""
+  },
+  {
+    "type" : "ammunition",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Unbreakable Arrow",
+    "priceGP" : 25,
+    "page" : "139"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Uncommon Glamerweave",
+    "priceGP" : 332,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Universal Solvent",
+    "priceGP" : 300,
+    "page" : "209"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Veteran's Cane",
+    "priceGP" : 50,
+    "page" : "139"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "AI",
+    "name" : "Vicious Rapier +1",
+    "priceGP" : 4699,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Vicious Weapon (any weapon)",
+    "priceGP" : 350,
+    "page" : "209"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "AI",
+    "name" : "Voting Kit",
+    "priceGP" : 97,
+    "page" : ""
+  },
+  {
+    "type" : "ammunition",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Walloping Ammunition",
+    "priceGP" : 30,
+    "page" : "139"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Wand Of Conducting",
+    "priceGP" : 90,
+    "page" : "140"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Wand Of Magic Detection",
+    "priceGP" : 1500,
+    "page" : "211"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Wand Of Magic Missiles",
+    "priceGP" : 8000,
+    "page" : "211"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Wand Of Pyrotechnics",
+    "priceGP" : 65,
+    "page" : "140"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Wand Of Scowls",
+    "priceGP" : 60,
+    "page" : "140"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Wand Of Secrets",
+    "priceGP" : 1500,
+    "page" : "211"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Wand Of Smiles",
+    "priceGP" : 60,
+    "page" : "140"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Weapon +1",
+    "priceGP" : 1000,
+    "page" : "213"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Weapon +2",
+    "priceGP" : 4000,
+    "page" : "213"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Weapon +3",
+    "priceGP" : 16000,
+    "page" : "213"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Well Of Many Worlds",
+    "priceGP" : 90000,
+    "page" : "213"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "WGE",
+    "name" : "Wheel Of Wind And Water",
+    "priceGP" : 287,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Wheel Of Wind And Water",
+    "priceGP" : 194,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Wind Fan",
+    "priceGP" : 1500,
+    "page" : "213"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "HT",
+    "name" : "Winters Dark Bite",
+    "priceGP" : 398,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "TA",
+    "name" : "Yklwa +1",
+    "priceGP" : 285,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "TA",
+    "name" : "Yklwa +2",
+    "priceGP" : 2179,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "TA",
+    "name" : "Yklwa +3",
+    "priceGP" : 46368,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EGW",
+    "name" : "Amulet of the Drunkard",
+    "priceGP" : 153,
+    "page" : "265"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Arcane Cannon",
+    "priceGP" : 17862,
+    "page" : "265"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EGW",
+    "name" : "Breathing Bubble",
+    "priceGP" : 85,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EGW",
+    "name" : "Coin of Delving",
+    "priceGP" : 86,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Dispelling Stone",
+    "priceGP" : 27266,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EGW",
+    "name" : "Dust of Deliciousness",
+    "priceGP" : 454,
+    "page" : "267"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Last Stand Armor",
+    "priceGP" : 42840,
+    "page" : "267"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Luxon Beacon",
+    "priceGP" : 50001,
+    "page" : "268"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Potion of Maximum Power",
+    "priceGP" : 953,
+    "page" : "268"
+  },
+  {
+    "type" : "potions & oils",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Potion of Possibility",
+    "priceGP" : 9504,
+    "page" : "268"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Reincarnation Dust",
+    "priceGP" : 20299,
+    "page" : "268"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EGW",
+    "name" : "Vox Seeker",
+    "priceGP" : 79,
+    "page" : "270"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Weapon of Certain Death",
+    "priceGP" : 4266,
+    "page" : "270"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Amulet Of Health",
+    "priceGP" : 8000,
+    "page" : "150"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Amulet Of Proof Against Detection And Location",
+    "priceGP" : 20000,
+    "page" : "150"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Amulet Of Protection From Turning",
+    "priceGP" : 3600,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "TA",
+    "name" : "Amulet Of The Black Skull",
+    "priceGP" : 6400,
+    "page" : "206"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Amulet Of The Planes",
+    "priceGP" : 160000,
+    "page" : "150"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Animated Shield",
+    "priceGP" : 6000,
+    "page" : "151"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "EBR",
+    "name" : "Arcane Propulsion Arm",
+    "priceGP" : 13789,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "UA",
+    "name" : "Arcanomechanical Armor",
+    "priceGP" : 4194,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Armblade",
+    "priceGP" : 87,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Armblade",
+    "priceGP" : 83,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Armor Of Invulnerability",
+    "priceGP" : 18000,
+    "page" : "152"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Armor Of Resistance",
+    "priceGP" : 6000,
+    "page" : "152"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Armor Of Vulnerability",
+    "priceGP" : 1065,
+    "page" : ""
+  },
+  {
+    "type" : "shields",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Arrow-Catching Shield",
+    "priceGP" : 6000,
+    "page" : "152"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "WDH",
+    "name" : "Azuredge (battleaxe)",
+    "priceGP" : 53000,
+    "page" : "189"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "WDH",
+    "name" : "Badge Of The Watch",
+    "priceGP" : 3250,
+    "page" : "189"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "WGE",
+    "name" : "Band Of Loyalty",
+    "priceGP" : 191,
+    "page" : ""
+  },
+  {
+    "type" : "rings",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Band Of Loyalty",
+    "priceGP" : 96,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Banner Of The Krig Rune",
+    "priceGP" : 4400,
+    "page" : "233"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "BGA",
+    "name" : "Battle Standard Of Infernal Power",
+    "priceGP" : 16734,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EBR",
+    "name" : "Belashyrras Beholder Crown",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Belt Of Dwarvenkind",
+    "priceGP" : 6000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Belt Of Giant Strength (Cloud)",
+    "priceGP" : 66000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Belt Of Giant Strength (Fire)",
+    "priceGP" : 36000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Belt Of Giant Strength (Hill)",
+    "priceGP" : 4000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Belt Of Giant Strength (Stone\/Frost)",
+    "priceGP" : 12000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Belt Of Giant Strength (Storm)",
+    "priceGP" : 100000,
+    "page" : "155"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "BR",
+    "name" : "Berserker Axe",
+    "priceGP" : 1822,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMM",
+    "name" : "Black Crystal Tablet",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "HDQ",
+    "name" : "Black Dragon Mask",
+    "priceGP" : 95000,
+    "page" : "94"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Blackrazor",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "legendary",
+    "source" : "WDH",
+    "name" : "Blackstaff",
+    "priceGP" : 72000,
+    "page" : "190"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "LLK",
+    "name" : "Blade Of The Medusa",
+    "priceGP" : 6536,
+    "page" : ""
+  },
+  {
+    "type" : "rods",
+    "rarity" : "very rare",
+    "source" : "DMM",
+    "name" : "Blast Scepter",
+    "priceGP" : 5914,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Blod Stone",
+    "priceGP" : 6500,
+    "page" : "233"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "CS",
+    "name" : "Blood Spear",
+    "priceGP" : 375,
+    "page" : "221"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "RT",
+    "name" : "Blue Dragon Mask",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "TA",
+    "name" : "Bookmark (dagger)",
+    "priceGP" : 30000,
+    "page" : "206"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Boots Of Levitation",
+    "priceGP" : 4000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Boots Of Speed",
+    "priceGP" : 4000,
+    "page" : "155"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Boots Of Striding And Springing",
+    "priceGP" : 5000,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Boots Of The Winterlands",
+    "priceGP" : 10000,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "TYP",
+    "name" : "Bracelet Of Rock Magic",
+    "priceGP" : 9000,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "WDH",
+    "name" : "Bracer Of Flying Daggers",
+    "priceGP" : 1000,
+    "page" : "190"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Bracers Of Archery",
+    "priceGP" : 1500,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Bracers Of Defense",
+    "priceGP" : 6000,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Brooch Of Shielding",
+    "priceGP" : 7500,
+    "page" : "156"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Candle Of Invocation",
+    "priceGP" : 8400,
+    "page" : "157"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Charlatan's Die",
+    "priceGP" : 80,
+    "page" : "136"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GoS",
+    "name" : "Charm Of Plant Command",
+    "priceGP" : 823,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "AI",
+    "name" : "Chronolometer",
+    "priceGP" : 26133,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMM",
+    "name" : "Circlet Of Human Perfection",
+    "priceGP" : 251,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Claw Of The Wyrm Rune",
+    "priceGP" : 4400,
+    "page" : "233"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "PA",
+    "name" : "Claws Of The Umber Hulk",
+    "priceGP" : 4300,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Cloak Of Arachnida",
+    "priceGP" : 5000,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Cloak Of Displacement",
+    "priceGP" : 60000,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Cloak Of Elvenkind",
+    "priceGP" : 5000,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Cloak Of Invisibility",
+    "priceGP" : 80000,
+    "page" : "158"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Cloak Of Protection",
+    "priceGP" : 3500,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Cloak Of The Bat",
+    "priceGP" : 6000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "SKT",
+    "name" : "Conch Of Teleportation",
+    "priceGP" : 1850,
+    "page" : "234"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Crystal Ball",
+    "priceGP" : 50000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Crystal Ball Of Mind Reading",
+    "priceGP" : 51000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Crystal Ball Of Telepathy",
+    "priceGP" : 70000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Crystal Ball Of True Seeing",
+    "priceGP" : 80000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Cube Of Force",
+    "priceGP" : 16000,
+    "page" : "159"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GoS",
+    "name" : "Cursed Luckstone",
+    "priceGP" : 424,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMM",
+    "name" : "Dagger Of Blindsight",
+    "priceGP" : 2735,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Dancing Sword (any sword)",
+    "priceGP" : 2000,
+    "page" : "160"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Dark Shard Amulet",
+    "priceGP" : 75,
+    "page" : "137"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "OA",
+    "name" : "Dawnbringer (longsword)",
+    "priceGP" : 57000,
+    "page" : "222"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Defender (any sword)",
+    "priceGP" : 24000,
+    "page" : "164"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Demon Armor (plate) (cursed)",
+    "priceGP" : 7500,
+    "page" : "165"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "AI",
+    "name" : "Dimensional Loop",
+    "priceGP" : 20753,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "WGE",
+    "name" : "Docent",
+    "priceGP" : 1469,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "EBR",
+    "name" : "Docent",
+    "priceGP" : 752,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Dragon Scale Mail",
+    "priceGP" : 4000,
+    "page" : "165"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "legendary",
+    "source" : "WDH",
+    "name" : "Dragonstaff Of Ahghairon",
+    "priceGP" : 50500,
+    "page" : "191"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "PA",
+    "name" : "Drown (trident)",
+    "priceGP" : 66000,
+    "page" : "224"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Dwarven Thrower (warhammer)",
+    "priceGP" : 18000,
+    "page" : "167"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "EBR",
+    "name" : "Dyrrns Tentacle Whip",
+    "priceGP" : 31471,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Earworm",
+    "priceGP" : 455,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Efreeti Chain (chain mail)",
+    "priceGP" : 20000,
+    "page" : "167"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Ersatz Eye",
+    "priceGP" : 75,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Eyes Of Charming",
+    "priceGP" : 3000,
+    "page" : "168"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Eyes Of The Eagle",
+    "priceGP" : 2500,
+    "page" : "168"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "AI",
+    "name" : "Failed Experiment Wand",
+    "priceGP" : 2437,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "BGA",
+    "name" : "Fane Eater",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "AI",
+    "name" : "Far Gear",
+    "priceGP" : 5469,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "WDH",
+    "name" : "Feather Of Diatryma Summoning",
+    "priceGP" : 600,
+    "page" : "191"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Fernian Ash Focus",
+    "priceGP" : 94,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Fernian Ash Focus",
+    "priceGP" : 61,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Finders Goggles",
+    "priceGP" : 168,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Flame Tongue",
+    "priceGP" : 5000,
+    "page" : "170"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Frost Brand (any sword)",
+    "priceGP" : 2200,
+    "page" : "171"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Galder's Bubble Pipe",
+    "priceGP" : 1000,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Gamblers Blade",
+    "priceGP" : 2132,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "BGA",
+    "name" : "Gauntlets Of Flaming Fury",
+    "priceGP" : 1115,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Gauntlets Of Ogre Power",
+    "priceGP" : 8000,
+    "page" : "171"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Gavel Of The Venn Rune",
+    "priceGP" : 2800,
+    "page" : "234"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Gem Of Seeing",
+    "priceGP" : 32000,
+    "page" : "172"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TA",
+    "name" : "Ghost Lantern",
+    "priceGP" : 1750,
+    "page" : "206"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Gloves Of Missile Snaring",
+    "priceGP" : 3000,
+    "page" : "172"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Gloves Of Swimming And Climbing",
+    "priceGP" : 2000,
+    "page" : "172"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "MTF",
+    "name" : "Greater Silver Sword",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "RT",
+    "name" : "Green Dragon Mask",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Azorius)",
+    "priceGP" : 1000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Boros)",
+    "priceGP" : 3500,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Dimir)",
+    "priceGP" : 26000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Golgari)",
+    "priceGP" : 7500,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Gruul)",
+    "priceGP" : 2800,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Izzet)",
+    "priceGP" : 1850,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Orzhov)",
+    "priceGP" : 1100,
+    "page" : "178"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Rakdos)",
+    "priceGP" : 400,
+    "page" : "178"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Selesnya)",
+    "priceGP" : 1500,
+    "page" : "178"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Guild Keyrune (Simic)",
+    "priceGP" : 500,
+    "page" : "178"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Guild Signet",
+    "priceGP" : 350,
+    "page" : "178"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "CS",
+    "name" : "Gulthias Staff",
+    "priceGP" : 2200,
+    "page" : "221"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "SKT",
+    "name" : "Gurt's Greataxe",
+    "priceGP" : 67000,
+    "page" : "234"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Hammer Of Thunderbolts (maul)",
+    "priceGP" : 16000,
+    "page" : "173"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Hat Of Disguise",
+    "priceGP" : 5000,
+    "page" : "173"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Hat Of Wizardry",
+    "priceGP" : 75,
+    "page" : "137"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "HDQ",
+    "name" : "Hazirawn (greatsword)",
+    "priceGP" : 66000,
+    "page" : "94"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Headband Of Intellect",
+    "priceGP" : 8000,
+    "page" : "173"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Hell Hound Cloak",
+    "priceGP" : 1700,
+    "page" : "228"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Helm Of Brilliance",
+    "priceGP" : 32000,
+    "page" : "173"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "BGA",
+    "name" : "Helm Of Devil Command",
+    "priceGP" : 31253,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Helm Of Telepathy",
+    "priceGP" : 12000,
+    "page" : "174"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Helm Of Teleportation",
+    "priceGP" : 64000,
+    "page" : "174"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMM",
+    "name" : "Helm Of The Scavenger",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GoS",
+    "name" : "Helm Of Underwater Action",
+    "priceGP" : 259,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "LLK",
+    "name" : "Heward's Hireling Armor",
+    "priceGP" : 26361,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Holy Avenger (any sword)",
+    "priceGP" : 165000,
+    "page" : "174"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "CS",
+    "name" : "Holy Symbol Of Ravenkind",
+    "priceGP" : 51000,
+    "page" : "222"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "very rare",
+    "source" : "DMM",
+    "name" : "Horned Ring",
+    "priceGP" : 29193,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "CS",
+    "name" : "Icon Of Ravenloft",
+    "priceGP" : 50500,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "GGR",
+    "name" : "Illusionists Bracers",
+    "priceGP" : 13500,
+    "page" : "178"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Imbued Wood",
+    "priceGP" : 60,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Imbued Wood Focus",
+    "priceGP" : 70,
+    "page" : ""
+  },
+  {
+    "type" : "rods",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Immovable Rod",
+    "priceGP" : 5000,
+    "page" : "175"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "BGA",
+    "name" : "Infernal Tack",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "SKT",
+    "name" : "Ingot Of The Skold Rune",
+    "priceGP" : 15000,
+    "page" : "234"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "WGE",
+    "name" : "Inquisitives Goggles",
+    "priceGP" : 496,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Inquisitives Goggles",
+    "priceGP" : 127,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Instrument Of Illusions",
+    "priceGP" : 100,
+    "page" : "137"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Instrument Of Scribing",
+    "priceGP" : 80,
+    "page" : "138"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Anstruth Harp)",
+    "priceGP" : 109000,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Canaith Mandolin)",
+    "priceGP" : 30000,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Cli Lyre)",
+    "priceGP" : 35000,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Doss Lute)",
+    "priceGP" : 28500,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Fochulan Bandore)",
+    "priceGP" : 26500,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Mac-Fuirmidh Cittern)",
+    "priceGP" : 27000,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Instrument of the Bards (Ollamh Harp)",
+    "priceGP" : 125000,
+    "page" : "176"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Absorption)",
+    "priceGP" : 2400,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Agility)",
+    "priceGP" : 3000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Awareness)",
+    "priceGP" : 12000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Fortitude)",
+    "priceGP" : 3000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Greater Absorption)",
+    "priceGP" : 31000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Insight)",
+    "priceGP" : 3000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Intellect)",
+    "priceGP" : 3000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Leadership)",
+    "priceGP" : 3000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Mastery)",
+    "priceGP" : 15000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Protection)",
+    "priceGP" : 1200,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Regeneration)",
+    "priceGP" : 4000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Reserve)",
+    "priceGP" : 6000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Strength)",
+    "priceGP" : 3000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ioun Stone (Sustenance)",
+    "priceGP" : 1000,
+    "page" : "177"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Ioun Stone Of Historical Knowledge",
+    "priceGP" : 3531,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Ioun Stone Of Language Knowledge",
+    "priceGP" : 1148,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Ioun Stone Of Natural Knowledge",
+    "priceGP" : 2580,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Ioun Stone Of Religious Knowledge",
+    "priceGP" : 1856,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Ioun Stone Of Self Preservation",
+    "priceGP" : 3239,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Ioun Stone Of Supreme Intellect",
+    "priceGP" : 1585,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Irian Rosewood Focus",
+    "priceGP" : 95,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Irian Rosewood Focus",
+    "priceGP" : 63,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "PA",
+    "name" : "Ironfang (war pick)",
+    "priceGP" : 76000,
+    "page" : "224"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "TH",
+    "name" : "Javelin Of Backbiting",
+    "priceGP" : 36126,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Keycharm",
+    "priceGP" : 86,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "WDH",
+    "name" : "Knave's Eye Patch",
+    "priceGP" : 2000,
+    "page" : "191"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "SKT",
+    "name" : "Korolnor Scepter",
+    "priceGP" : 63000,
+    "page" : "234"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "EBR",
+    "name" : "Kyrzins Ooze",
+    "priceGP" : 28670,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Kythrian Manchineel Focus",
+    "priceGP" : 80,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Kythrian Manchineel Focus",
+    "priceGP" : 77,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Lamannian Oak Focus",
+    "priceGP" : 97,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Lamannian Oak Focus",
+    "priceGP" : 61,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "LLK",
+    "name" : "Leather Golem Armor",
+    "priceGP" : 2327,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "very rare",
+    "source" : "EBR",
+    "name" : "Living Armor",
+    "priceGP" : 7669,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EBR",
+    "name" : "Living Gloves",
+    "priceGP" : 163,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "WDH",
+    "name" : "Lord's Ensemble",
+    "priceGP" : 5000,
+    "page" : "191"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "PA",
+    "name" : "Lost Crown Of Besilmer",
+    "priceGP" : 23000,
+    "page" : "223"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Luck Blade",
+    "priceGP" : 100000,
+    "page" : "179"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Mabaran Ebony Focus",
+    "priceGP" : 60,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Mabaran Ebony Focus",
+    "priceGP" : 85,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "WGE",
+    "name" : "Mabaran Resonator",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EBR",
+    "name" : "Mabaran Resonator",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Mace Of Disruption",
+    "priceGP" : 8000,
+    "page" : "179"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Mace Of Terror",
+    "priceGP" : 8000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Mantle Of Spell Resistance",
+    "priceGP" : 30000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "RT",
+    "name" : "Mask Of The Dragon Queen",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "WGE",
+    "name" : "Master's Call",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EBR",
+    "name" : "Masters Call",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "BGA",
+    "name" : "Matalotok",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Medallion Of Thoughts",
+    "priceGP" : 3000,
+    "page" : "181"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "VGM",
+    "name" : "Mind Blade",
+    "priceGP" : 534,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "uncommon",
+    "source" : "VGM",
+    "name" : "Mind Carapace Armor",
+    "priceGP" : 360,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "VGM",
+    "name" : "Mind Lash",
+    "priceGP" : 3050,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Mizzium Apparatus",
+    "priceGP" : 500,
+    "page" : "179"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Moonblade",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "SKT",
+    "name" : "Navigation Orb",
+    "priceGP" : 27000,
+    "page" : "235"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Necklace Of Adaptation",
+    "priceGP" : 1500,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace Of Prayer Beads (Blessing)",
+    "priceGP" : 2000,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace Of Prayer Beads (Curing)",
+    "priceGP" : 4000,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace Of Prayer Beads (Favor)",
+    "priceGP" : 32000,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace Of Prayer Beads (Smiting)",
+    "priceGP" : 1500,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace Of Prayer Beads (Summons)",
+    "priceGP" : 128000,
+    "page" : "182"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Necklace Of Prayer Beads (Wind Walking)",
+    "priceGP" : 96000,
+    "page" : "182"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Nine Lives Stealer (Fully Charged) (any sword)",
+    "priceGP" : 8000,
+    "page" : "183"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Oathbow (longbow)",
+    "priceGP" : 3500,
+    "page" : "183"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Opal Of The Ild Rune",
+    "priceGP" : 3500,
+    "page" : "235"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Orb Of Shielding",
+    "priceGP" : 73,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Orb Of Shielding",
+    "priceGP" : 65,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Orb Of The Stein Rune",
+    "priceGP" : 2700,
+    "page" : "235"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "PA",
+    "name" : "Orcsplitter (greataxe)",
+    "priceGP" : 60000,
+    "page" : "224"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Pariah's Shield",
+    "priceGP" : 1500,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Pearl Of Power",
+    "priceGP" : 6000,
+    "page" : "184"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "SKT",
+    "name" : "Pennant Of The Vind Rune",
+    "priceGP" : 13000,
+    "page" : "235"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "GGR",
+    "name" : "Peregrine Mask",
+    "priceGP" : 6000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Periapt Of Wound Closure",
+    "priceGP" : 5000,
+    "page" : "184"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "AI",
+    "name" : "Piercer",
+    "priceGP" : 4559,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Pipes Of The Sewers",
+    "priceGP" : 2000,
+    "page" : "185"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "OA",
+    "name" : "Piwafwi (Cloak Of Elvenkind)",
+    "priceGP" : 200,
+    "page" : "222"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "OA",
+    "name" : "Piwafwi Of Fire Resistance",
+    "priceGP" : 1400,
+    "page" : "222"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Plate Armor Of Etherealness",
+    "priceGP" : 48000,
+    "page" : "185"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "LLK",
+    "name" : "Polymorph Blade",
+    "priceGP" : 19871,
+    "page" : ""
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "LLK",
+    "name" : "Powered Armor",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMM",
+    "name" : "Propeller Helm",
+    "priceGP" : 256,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Prosthetic Limb",
+    "priceGP" : 99,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Pyroconverger",
+    "priceGP" : 250,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Quori Beech Focus",
+    "priceGP" : 95,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Quori Beech Focus",
+    "priceGP" : 61,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "GGR",
+    "name" : "Rakdos Riteknife (dagger)",
+    "priceGP" : 60000,
+    "page" : "180"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "RT",
+    "name" : "Red Dragon Mask",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Air Elemental Command",
+    "priceGP" : 35000,
+    "page" : "190"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Djinni Summoning",
+    "priceGP" : 125000,
+    "page" : "190"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Earth Elemental Command",
+    "priceGP" : 31000,
+    "page" : "190"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Elemental Command",
+    "priceGP" : 200000,
+    "page" : ""
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Evasion",
+    "priceGP" : 5000,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Feather Falling",
+    "priceGP" : 2000,
+    "page" : "192"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Fire Elemental Command",
+    "priceGP" : 17000,
+    "page" : "190"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Free Action",
+    "priceGP" : 20000,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Invisibility",
+    "priceGP" : 10000,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Ring Of Jumping",
+    "priceGP" : 2500,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Ring Of Mind Shielding",
+    "priceGP" : 16000,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Protection",
+    "priceGP" : 3500,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ring Of Regeneration",
+    "priceGP" : 12000,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Resistance",
+    "priceGP" : 6000,
+    "page" : "192"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ring Of Shooting Stars",
+    "priceGP" : 14000,
+    "page" : "192"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of Spell Storing",
+    "priceGP" : 24000,
+    "page" : "192"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Spell Turning",
+    "priceGP" : 30000,
+    "page" : "1193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Ring Of Telekinesis",
+    "priceGP" : 80000,
+    "page" : "193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of The Ram",
+    "priceGP" : 5000,
+    "page" : "193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "WDH",
+    "name" : "Ring Of Truth Telling",
+    "priceGP" : 150,
+    "page" : "192"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Ring Of Warmth",
+    "priceGP" : 1000,
+    "page" : "193"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Ring Of Water Elemental Command",
+    "priceGP" : 25000,
+    "page" : "191"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Ring Of X-Ray Vision",
+    "priceGP" : 6000,
+    "page" : "193"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Risian Pine Focus",
+    "priceGP" : 95,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Risian Pine Focus",
+    "priceGP" : 59,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Robe Of Eyes",
+    "priceGP" : 30000,
+    "page" : "193"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Robe Of Scintillating Colors",
+    "priceGP" : 6000,
+    "page" : "194"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "SKT",
+    "name" : "Robe Of Serpents",
+    "priceGP" : 375,
+    "page" : "236"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Robe Of Stars",
+    "priceGP" : 60000,
+    "page" : "194"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "TYP",
+    "name" : "Robe Of Summer",
+    "priceGP" : 2900,
+    "page" : "229"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Robe Of The Archmagi",
+    "priceGP" : 34000,
+    "page" : "194"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Rod Of Absorption",
+    "priceGP" : 50000,
+    "page" : "195"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Rod Of Alertness",
+    "priceGP" : 25000,
+    "page" : "195"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Rod Of Lordly Might",
+    "priceGP" : 28000,
+    "page" : "195"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Rod Of Resurrection",
+    "priceGP" : 125000,
+    "page" : "197"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Rod Of Rulership",
+    "priceGP" : 16000,
+    "page" : "197"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Rod Of The Pact Keeper +1",
+    "priceGP" : 12000,
+    "page" : "197"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Rod Of The Pact Keeper +2",
+    "priceGP" : 16000,
+    "page" : "197"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Rod Of The Pact Keeper +3",
+    "priceGP" : 28000,
+    "page" : "197"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "rare",
+    "source" : "SKT",
+    "name" : "Rod Of The Vonindod",
+    "priceGP" : 3400,
+    "page" : "236"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "AI",
+    "name" : "Rotor Of Return",
+    "priceGP" : 6928,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Ruby Of The War Mage",
+    "priceGP" : 100,
+    "page" : "138"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "CS",
+    "name" : "Saint Markovia's Thighbone",
+    "priceGP" : 1986,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Scarab Of Protection",
+    "priceGP" : 36000,
+    "page" : "199"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Scimitar Of Speed",
+    "priceGP" : 6000,
+    "page" : "199"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "TA",
+    "name" : "Scorpion Armor (plate)",
+    "priceGP" : 2100,
+    "page" : "208"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Scribes Pen",
+    "priceGP" : 87,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "SKT",
+    "name" : "Shard Of The Ise Rune",
+    "priceGP" : 9000,
+    "page" : "236"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "TYP",
+    "name" : "Shatterspike (longsword)",
+    "priceGP" : 550,
+    "page" : "229"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Shavaran Birch Focus",
+    "priceGP" : 89,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Shavarran Birch Focus",
+    "priceGP" : 82,
+    "page" : ""
+  },
+  {
+    "type" : "shields",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Shield Of Missile Attraction",
+    "priceGP" : 6000,
+    "page" : "200"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "BGA",
+    "name" : "Shield Of The Hidden Lord",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "shields",
+    "rarity" : "very rare",
+    "source" : "DMM",
+    "name" : "Shield Of The Uven Rune",
+    "priceGP" : 5021,
+    "page" : ""
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Skyblinder Staff",
+    "priceGP" : 375,
+    "page" : "181"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Slippers Of Spider Climbing",
+    "priceGP" : 5000,
+    "page" : "200"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "TYP",
+    "name" : "Spear Of Backbiting (javelin or spear)",
+    "priceGP" : 6500,
+    "page" : "229"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "very rare",
+    "source" : "OA",
+    "name" : "Spell Gem (Amber Level 4)",
+    "priceGP" : 8000,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "rare",
+    "source" : "OA",
+    "name" : "Spell Gem (Bloodstone Level 3)",
+    "priceGP" : 4000,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "legendary",
+    "source" : "OA",
+    "name" : "Spell Gem (Diamond Level 9)",
+    "priceGP" : 78000,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "very rare",
+    "source" : "OA",
+    "name" : "Spell Gem (Jade Level 5)",
+    "priceGP" : 15000,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "uncommon",
+    "source" : "OA",
+    "name" : "Spell Gem (Lapis Lazuli Level 1)",
+    "priceGP" : 350,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "uncommon",
+    "source" : "OA",
+    "name" : "Spell Gem (Obsidian Level 0)",
+    "priceGP" : 150,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "rare",
+    "source" : "OA",
+    "name" : "Spell Gem (Quartz Level 2)",
+    "priceGP" : 1500,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "legendary",
+    "source" : "OA",
+    "name" : "Spell Gem (Ruby Level 8)",
+    "priceGP" : 51000,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "legendary",
+    "source" : "OA",
+    "name" : "Spell Gem (Star Ruby Level 7)",
+    "priceGP" : 35000,
+    "page" : "223"
+  },
+  {
+    "type" : "spell gems",
+    "rarity" : "very rare",
+    "source" : "OA",
+    "name" : "Spell Gem (Topaz Level 6)",
+    "priceGP" : 20000,
+    "page" : "223"
+  },
+  {
+    "type" : "shields",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Spellguard Shield",
+    "priceGP" : 50000,
+    "page" : "201"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "LMP",
+    "name" : "Spider Staff",
+    "priceGP" : 1750,
+    "page" : "53"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "GGR",
+    "name" : "Spies' Murmur",
+    "priceGP" : 475,
+    "page" : "181"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Staff Of Charming",
+    "priceGP" : 12000,
+    "page" : "201"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "LMP",
+    "name" : "Staff Of Defense",
+    "priceGP" : 3400,
+    "page" : "53"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Staff Of Fire",
+    "priceGP" : 16000,
+    "page" : "201"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Staff Of Frost",
+    "priceGP" : 26000,
+    "page" : "201"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Staff Of Healing",
+    "priceGP" : 13000,
+    "page" : "202"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Staff Of Power",
+    "priceGP" : 95500,
+    "page" : "202"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Staff Of Striking",
+    "priceGP" : 21000,
+    "page" : "203"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Staff Of Swarming Insects",
+    "priceGP" : 16000,
+    "page" : "203"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Staff Of The Adder",
+    "priceGP" : 1800,
+    "page" : "203"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Staff Of The Magi",
+    "priceGP" : 98000,
+    "page" : "203"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Staff Of The Python",
+    "priceGP" : 2000,
+    "page" : "204"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Staff Of The Woodlands",
+    "priceGP" : 44000,
+    "page" : "204"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Staff Of Thunder And Lightning",
+    "priceGP" : 10000,
+    "page" : "204"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Staff Of Withering",
+    "priceGP" : 3000,
+    "page" : "205"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Stone Of Good Luck (Luckstone)",
+    "priceGP" : 4200,
+    "page" : "205"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "TYP",
+    "name" : "Stone Of Ill Luck",
+    "priceGP" : 400,
+    "page" : "229"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "OA",
+    "name" : "Stonespeaker Crystal",
+    "priceGP" : 4600,
+    "page" : "223"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "WGE",
+    "name" : "Storm Spire",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EBR",
+    "name" : "Storm Spire",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Sun Blade (longsword)",
+    "priceGP" : 12000,
+    "page" : "205"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "GGR",
+    "name" : "Sunforger (warhammer)",
+    "priceGP" : 4600,
+    "page" : "181"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "CS",
+    "name" : "Sunsword (longsword)",
+    "priceGP" : 55000,
+    "page" : "223"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Sword Of Answering",
+    "priceGP" : 36000,
+    "page" : "206"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Sword Of Life Stealing (any sword)",
+    "priceGP" : 1000,
+    "page" : "206"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Sword Of Sharpness (slashing swords)",
+    "priceGP" : 1700,
+    "page" : "206"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "GGR",
+    "name" : "Sword Of The Paruns (longsword)",
+    "priceGP" : 16000,
+    "page" : "181"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Sword Of Vengeance (any sword)",
+    "priceGP" : 400,
+    "page" : "206"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Sword Of Wounding (any sword)",
+    "priceGP" : 2000,
+    "page" : "207"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Talisman Of Pure Good",
+    "priceGP" : 71680,
+    "page" : "207"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Talisman Of The Sphere",
+    "priceGP" : 20000,
+    "page" : "207"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Talisman Of Ultimate Evil",
+    "priceGP" : 61440,
+    "page" : "207"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "XGE",
+    "name" : "Talking Doll",
+    "priceGP" : 75,
+    "page" : "139"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Tentacle Rod",
+    "priceGP" : 5000,
+    "page" : "208"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "AI",
+    "name" : "Timepiece Of Travel",
+    "priceGP" : 28339,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "PA",
+    "name" : "Tinderstrike (dagger)",
+    "priceGP" : 71000,
+    "page" : "225"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Tome Of The Stilled Tongue",
+    "priceGP" : 60000,
+    "page" : "208"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Trident Of Fish Command",
+    "priceGP" : 800,
+    "page" : "209"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "EBR",
+    "name" : "Ventilating Lungs",
+    "priceGP" : 2482,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Vorpal Sword",
+    "priceGP" : 24000,
+    "page" : "209"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "GGR",
+    "name" : "Voyager Staff",
+    "priceGP" : 10500,
+    "page" : "181"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Binding",
+    "priceGP" : 10000,
+    "page" : "209"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Enemy Detection",
+    "priceGP" : 4000,
+    "page" : "210"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "uncommon",
+    "source" : "TYP",
+    "name" : "Wand Of Entangle",
+    "priceGP" : 300,
+    "page" : "229"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Fear",
+    "priceGP" : 10000,
+    "page" : "210"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Fireballs",
+    "priceGP" : 32000,
+    "page" : "210"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Lightning Bolts",
+    "priceGP" : 32000,
+    "page" : "211"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Paralysis",
+    "priceGP" : 16000,
+    "page" : "211"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Wand Of Polymorph",
+    "priceGP" : 32000,
+    "page" : "211"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Wand Of The War Mage +1",
+    "priceGP" : 1200,
+    "page" : "212"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of The War Mage +2",
+    "priceGP" : 4800,
+    "page" : "212"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "very rare",
+    "source" : "DMG",
+    "name" : "Wand Of The War Mage +3",
+    "priceGP" : 19200,
+    "page" : "212"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "OA",
+    "name" : "Wand Of Viscid Globs",
+    "priceGP" : 900,
+    "page" : "223"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Wand Of Web",
+    "priceGP" : 8000,
+    "page" : "212"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "HDQ",
+    "name" : "Wand Of Winter",
+    "priceGP" : 4100,
+    "page" : "94"
+  },
+  {
+    "type" : "wands",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wand Of Wonder",
+    "priceGP" : 2250,
+    "page" : "212"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Wand Sheath",
+    "priceGP" : 80,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Wand Sheath",
+    "priceGP" : 84,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Wave",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "TYP",
+    "name" : "Waythe (greatsword)",
+    "priceGP" : 62000,
+    "page" : "229"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Weapon Of Warning",
+    "priceGP" : 60000,
+    "page" : "213"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "PA",
+    "name" : "Weird Tank",
+    "priceGP" : 2200,
+    "page" : "223"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "AI",
+    "name" : "Wheel Of Stars",
+    "priceGP" : 17825,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "DMG",
+    "name" : "Whelm",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "RT",
+    "name" : "White Dragon Mask",
+    "priceGP" : 50001,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "legendary",
+    "source" : "PA",
+    "name" : "Windvane",
+    "priceGP" : 68000,
+    "page" : "225"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "DMG",
+    "name" : "Winged Boots",
+    "priceGP" : 8000,
+    "page" : "214"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "DMG",
+    "name" : "Wings Of Flying",
+    "priceGP" : 5000,
+    "page" : "214"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "PA",
+    "name" : "Wingwear",
+    "priceGP" : 300,
+    "page" : "223"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "WGE",
+    "name" : "Xorian Wenge Focus",
+    "priceGP" : 70,
+    "page" : ""
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EBR",
+    "name" : "Xorian Wenge Focus",
+    "priceGP" : 91,
+    "page" : ""
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Acheron Blade",
+    "priceGP" : 4109,
+    "page" : "265"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Battering Shield",
+    "priceGP" : 901,
+    "page" : "266"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Bloodaxe",
+    "priceGP" : 24330,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EGW",
+    "name" : "Brooch of Living Essence",
+    "priceGP" : 315,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Butchers Bib",
+    "priceGP" : 2071,
+    "page" : "266"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Corpse Slayer",
+    "priceGP" : 3574,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Danoth's Visor",
+    "priceGP" : 50001,
+    "page" : "270"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Duskcrusher",
+    "priceGP" : 29761,
+    "page" : "266"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "uncommon",
+    "source" : "EGW",
+    "name" : "Goggles of Object Reading",
+    "priceGP" : 167,
+    "page" : "267"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Grimoire Infinitus",
+    "priceGP" : 50001,
+    "page" : "271"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Hide of the Feral Guardian",
+    "priceGP" : 50001,
+    "page" : "271"
+  },
+  {
+    "type" : "armor",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Hunter's Coat",
+    "priceGP" : 50001,
+    "page" : "267"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Infiltrator's Key",
+    "priceGP" : 50001,
+    "page" : "272"
+  },
+  {
+    "type" : "weapons",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Needle of Mending",
+    "priceGP" : 997,
+    "page" : "268"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Nightfall Pearl",
+    "priceGP" : 50001,
+    "page" : "268"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Orb of the Veil",
+    "priceGP" : 23922,
+    "page" : "268"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "common",
+    "source" : "EGW",
+    "name" : "Prosthetic Limb",
+    "priceGP" : 81,
+    "page" : "278"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "uncommon",
+    "source" : "EGW",
+    "name" : "Ring of Obscuring",
+    "priceGP" : 468,
+    "page" : "269"
+  },
+  {
+    "type" : "rings",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Ring of Temporal Salvation",
+    "priceGP" : 2580,
+    "page" : "269"
+  },
+  {
+    "type" : "rods",
+    "rarity" : "uncommon",
+    "source" : "EGW",
+    "name" : "Rod of Retribution",
+    "priceGP" : 374,
+    "page" : "269"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Spell Bottle",
+    "priceGP" : 50001,
+    "page" : "269"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "very rare",
+    "source" : "EGW",
+    "name" : "Staff of Dunamancy",
+    "priceGP" : 48190,
+    "page" : "270"
+  },
+  {
+    "type" : "staffs",
+    "rarity" : "rare",
+    "source" : "EGW",
+    "name" : "Staff of the Ivory Claw",
+    "priceGP" : 1319,
+    "page" : "270"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Stormgirdle",
+    "priceGP" : 50001,
+    "page" : "273"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Verminshroud",
+    "priceGP" : 50001,
+    "page" : "273"
+  },
+  {
+    "type" : "wonderous items",
+    "rarity" : "legendary",
+    "source" : "EGW",
+    "name" : "Wreath of the Prism",
+    "priceGP" : 50001,
+    "page" : "274"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Abacus",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Acid Vial",
+    "priceGP" : 25,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Alchemist's Fire Flask",
+    "priceGP" : 50,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Alchemist's Supplies",
+    "priceGP" : 50,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Alexandrite",
+    "priceGP" : 500,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Amber",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Amethyst",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Amulet",
+    "priceGP" : 5,
+    "type" : "holy symbol"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Antitoxin",
+    "priceGP" : 50,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Aquamarine",
+    "priceGP" : 500,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Arrows",
+    "priceGP" : 1,
+    "type" : "ammunition"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Assassin's Blood (Ingested)",
+    "priceGP" : 150,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Azurite",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Backpack",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bagpipes",
+    "priceGP" : 30,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ball Bearings (Bag Of 1000)",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Banded Agate",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Barrel",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Basket",
+    "priceGP" : 0.40000000000000002,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Battleaxe",
+    "priceGP" : 10,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bedroll",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bell",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Birdpipes",
+    "priceGP" : 12,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bit And Bridle",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Black Opal",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Black Pearl",
+    "priceGP" : 500,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Black Sapphire",
+    "priceGP" : 5000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Blanket",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Block And Tackle",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bloodstone",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Blowgun",
+    "priceGP" : 10,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Blowgun Needles",
+    "priceGP" : 1,
+    "type" : "ammunition"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Blue Quartz",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Blue Sapphire",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Blue Spinel",
+    "priceGP" : 500,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bomb",
+    "priceGP" : 150,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Book",
+    "priceGP" : 25,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bottle Glass",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Breastplate",
+    "priceGP" : 400,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Brewer's Supplies",
+    "priceGP" : 20,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bucket",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Bullets Renaissance",
+    "priceGP" : 3,
+    "type" : "ammunition"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Burglar's Pack",
+    "priceGP" : 16,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Burnt Othur Fumes (Inhaled)",
+    "priceGP" : 500,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Calligrapher's Supplies",
+    "priceGP" : 10,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Caltrops (Bag Of 20)",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Camel",
+    "priceGP" : 50,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Candle",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Canoe",
+    "priceGP" : 50,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Carnelian",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Carpenter's Tools",
+    "priceGP" : 8,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Carriage",
+    "priceGP" : 100,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Cart",
+    "priceGP" : 15,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Cartographer's Tools",
+    "priceGP" : 15,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Case Crossbow Bolt",
+    "priceGP" : 15,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Case Map or Scroll",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chain (10 feet)",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chain Mail",
+    "priceGP" : 75,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chain Shirt",
+    "priceGP" : 50,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chalcedony",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chalk (1 Piece)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chariot",
+    "priceGP" : 250,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chest",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chrysoberyl",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Chrysoprase",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Citrine",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Climber's Kit",
+    "priceGP" : 25,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Clothes Costume",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Clothes Common",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Clothes Fine",
+    "priceGP" : 15,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Clothes Travelers",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Club",
+    "priceGP" : 0,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Cobbler's Tools",
+    "priceGP" : 5,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Component Pouch",
+    "priceGP" : 25,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Cook's Utensils",
+    "priceGP" : 1,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Coral",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crawler Mucus (Contact)",
+    "priceGP" : 200,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crossbow Bolts",
+    "priceGP" : 1,
+    "type" : "ammunition"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crossbow Hand",
+    "priceGP" : 75,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crossbow Heavy",
+    "priceGP" : 50,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crossbow Light",
+    "priceGP" : 25,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crowbar",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Crystal",
+    "priceGP" : 10,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Dagger",
+    "priceGP" : 2,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Dart",
+    "priceGP" : 0,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Diamond",
+    "priceGP" : 5000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Dice Set",
+    "priceGP" : 0,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Diplomat's Pack",
+    "priceGP" : 39,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Disguise Kit",
+    "priceGP" : 25,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Donkey (or Mule)",
+    "priceGP" : 8,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Double-Bladed Scimitar",
+    "priceGP" : 100,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Draft Horse",
+    "priceGP" : 50,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Dragonchess Set",
+    "priceGP" : 1,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Drow Poison (Injury)",
+    "priceGP" : 200,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Drum",
+    "priceGP" : 6,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Dulcimer",
+    "priceGP" : 25,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Dungeoneer's Pack",
+    "priceGP" : 12,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Elephant",
+    "priceGP" : 200,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Emblem",
+    "priceGP" : 5,
+    "type" : "holy symbol"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Emerald",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Entertainer's Pack",
+    "priceGP" : 40,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Essence Of Ether (Inhaled)",
+    "priceGP" : 300,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Explorer's Pack",
+    "priceGP" : 10,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Eye Agate",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Feed (Per Day)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Fire Opal",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Fishing Tackle",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Flail",
+    "priceGP" : 10,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Flask or Tankard",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Flute",
+    "priceGP" : 2,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Forgery Kit",
+    "priceGP" : 15,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Galley",
+    "priceGP" : 30000,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Garnet",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Glaive",
+    "priceGP" : 20,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Glassblower's Tools",
+    "priceGP" : 30,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Glaur",
+    "priceGP" : 3,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Grappling Hook",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Greataxe",
+    "priceGP" : 30,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Greatclub",
+    "priceGP" : 0.20000000000000001,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Greatsword",
+    "priceGP" : 50,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Gunpowder Keg",
+    "priceGP" : 250,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Gunpowder Powder Horn",
+    "priceGP" : 35,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Halberd",
+    "priceGP" : 20,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Half Plate",
+    "priceGP" : 750,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hammer",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hammer Sledge",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hand Drum",
+    "priceGP" : 6,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Handaxe",
+    "priceGP" : 5,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Healer's Kit",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hematite",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Herbalism Kit",
+    "priceGP" : 5,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hide",
+    "priceGP" : 10,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Holy Water (Flask)",
+    "priceGP" : 25,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Horn",
+    "priceGP" : 3,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hourglass",
+    "priceGP" : 25,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Hunting Trap",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ink (1 Ounce Bottle)",
+    "priceGP" : 10,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ink Pen",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Insect Repellent-Incense",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Insect Repellent-Salve",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Jacinth",
+    "priceGP" : 5000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Jade",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Jasper",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Javelin",
+    "priceGP" : 0.5,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Jet",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Jeweler's Tools",
+    "priceGP" : 25,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Jug or Pitcher",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Keelboat",
+    "priceGP" : 3000,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ladder (10 foot)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lamp",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lance",
+    "priceGP" : 10,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lantern Bullseye",
+    "priceGP" : 10,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lantern Hooded",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lapis Lazuli",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Leather",
+    "priceGP" : 10,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Leatherworker's Tools",
+    "priceGP" : 5,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Light Hammer",
+    "priceGP" : 2,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lock",
+    "priceGP" : 10,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Longbow",
+    "priceGP" : 50,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Longhorn",
+    "priceGP" : 2,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Longship",
+    "priceGP" : 10000,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Longsword",
+    "priceGP" : 15,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lute",
+    "priceGP" : 35,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Lyre",
+    "priceGP" : 30,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Mace",
+    "priceGP" : 5,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Magnifying Glass",
+    "priceGP" : 100,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Malachite",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Malice (Inhaled)",
+    "priceGP" : 250,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Manacles",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Mason's Tools",
+    "priceGP" : 10,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Mastiff",
+    "priceGP" : 25,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Maul",
+    "priceGP" : 10,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Mess Kit",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Midnight Tears (Ingested)",
+    "priceGP" : 1500,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Mirror Steel",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Monster Hunter's Pack",
+    "priceGP" : 33,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Moonstone",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Morningstar",
+    "priceGP" : 15,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Moss Agate",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Musket",
+    "priceGP" : 500,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Navigator's Tools",
+    "priceGP" : 25,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Net",
+    "priceGP" : 1,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Obsidian",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Oil (Flask)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Oil Of Taggit (Contact)",
+    "priceGP" : 400,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Onyx",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Opal",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Orb",
+    "priceGP" : 20,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Padded",
+    "priceGP" : 5,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Painter's Supplies",
+    "priceGP" : 10,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pale Tincture (Ingested)",
+    "priceGP" : 250,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pan Flute",
+    "priceGP" : 12,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Paper (One Sheet)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Parchment (One Sheet)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pearl",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Perfume (Vial)",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Peridot",
+    "priceGP" : 500,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pick Miner's",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pike",
+    "priceGP" : 5,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pistol",
+    "priceGP" : 250,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Piton",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Plate",
+    "priceGP" : 1500,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Playing Card Set",
+    "priceGP" : 1,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Poison Basic (Vial)",
+    "priceGP" : 100,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Poisoner's Kit",
+    "priceGP" : 50,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pole (10 foot)",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pony",
+    "priceGP" : 30,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pot Iron",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Potion Of Healing",
+    "priceGP" : 50,
+    "type" : "potions & oils"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Potter's Tools",
+    "priceGP" : 10,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Pouch",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Priest's Pack",
+    "priceGP" : 19,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Purple Worm Poison (Injury)",
+    "priceGP" : 2000,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Quartz",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Quiver",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rain Catcher",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ram Portable",
+    "priceGP" : 4,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rapier",
+    "priceGP" : 25,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rations (1 Day)",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Reliquary",
+    "priceGP" : 5,
+    "type" : "holy symbol"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rhodochrosite",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Riding Horse",
+    "priceGP" : 75,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ring Mail",
+    "priceGP" : 30,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Robes",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rod",
+    "priceGP" : 10,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rope Hempen (50 feet)",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rope Silk (50 feet)",
+    "priceGP" : 10,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Rowboat",
+    "priceGP" : 50,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Ruby",
+    "priceGP" : 5000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sack",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Saddle Exotic",
+    "priceGP" : 60,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Saddle Exotic",
+    "priceGP" : 20,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Saddle Military",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Saddle Pack",
+    "priceGP" : 10,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Saddle Riding",
+    "priceGP" : 4,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Saddlebags",
+    "priceGP" : 4,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sailing Ship",
+    "priceGP" : 10000,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sardonyx",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Scale Mail",
+    "priceGP" : 50,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Scale Merchant's",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Scholar's Pack",
+    "priceGP" : 40,
+    "type" : "generalGoods"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Scimitar",
+    "priceGP" : 25,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sealing Wax",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Serpent Venom (Injury)",
+    "priceGP" : 200,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Shawm",
+    "priceGP" : 2,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Shield",
+    "priceGP" : 10,
+    "type" : "shields"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Shortbow",
+    "priceGP" : 25,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Shortsword",
+    "priceGP" : 10,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Shovel",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sickle",
+    "priceGP" : 1,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Signal Whistle",
+    "priceGP" : 0.050000000000000003,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Signet Ring",
+    "priceGP" : 5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sled",
+    "priceGP" : 20,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sling",
+    "priceGP" : 0,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sling Bullets",
+    "priceGP" : 0,
+    "type" : "ammunition"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Smiths Tools",
+    "priceGP" : 20,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Soap",
+    "priceGP" : 0,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Songhorn",
+    "priceGP" : 2,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Spear",
+    "priceGP" : 1,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Spellbook",
+    "priceGP" : 50,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Spiked Armor",
+    "priceGP" : 75,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Spikes Iron (10)",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Spinel",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Splint",
+    "priceGP" : 200,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Sprig Of Mistletoe",
+    "priceGP" : 1,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Spyglass",
+    "priceGP" : 1000,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Staff",
+    "priceGP" : 5,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Star Rose Quartz",
+    "priceGP" : 50,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Star Ruby",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Star Sapphire",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Studded Leather",
+    "priceGP" : 45,
+    "type" : "armor"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tantan",
+    "priceGP" : 6,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tent Two-Person",
+    "priceGP" : 2,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Thelarr",
+    "priceGP" : 2,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Thieves' Tools",
+    "priceGP" : 25,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Three-Dragon Ante Set",
+    "priceGP" : 1,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tiger Eye",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tinderbox",
+    "priceGP" : 0.5,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tinker's Tools",
+    "priceGP" : 50,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tocken",
+    "priceGP" : 6,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Topaz",
+    "priceGP" : 500,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Torch",
+    "priceGP" : 0.01,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Torpor (Ingested)",
+    "priceGP" : 600,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Totem",
+    "priceGP" : 1,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Tourmaline",
+    "priceGP" : 100,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Trident",
+    "priceGP" : 5,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Truth Serum (Ingested)",
+    "priceGP" : 150,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Turquoise",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Vial",
+    "priceGP" : 1,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Viol",
+    "priceGP" : 30,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Wagon",
+    "priceGP" : 25,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Wand",
+    "priceGP" : 10,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "War Pick",
+    "priceGP" : 5,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Wargong",
+    "priceGP" : 30,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Warhammer",
+    "priceGP" : 15,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Warhorse",
+    "priceGP" : 400,
+    "type" : "mount"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Warship",
+    "priceGP" : 25000,
+    "type" : "vehicle"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Waterskin",
+    "priceGP" : 0.20000000000000001,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Weaver's Tools",
+    "priceGP" : 1,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Whetstone",
+    "priceGP" : 0.01,
+    "type" : "adventuring gear"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Whip",
+    "priceGP" : 2,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Woodcarver's Tools",
+    "priceGP" : 1,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Wooden Staff",
+    "priceGP" : 5,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Wyvern Poison (Injury)",
+    "priceGP" : 1200,
+    "type" : "poison"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Yarting",
+    "priceGP" : 35,
+    "type" : "tool"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Yellow Sapphire",
+    "priceGP" : 1000,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Yew Wand",
+    "priceGP" : 10,
+    "type" : "focus"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Yklwa",
+    "priceGP" : 1,
+    "type" : "weapons"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Zircon",
+    "priceGP" : 10,
+    "type" : "gemstone"
+  },
+  {
+    "rarity" : "common",
+    "name" : "Zulkoon",
+    "priceGP" : 30,
+    "type" : "tool"
+  }
+]

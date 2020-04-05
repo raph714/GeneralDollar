@@ -1,0 +1,777 @@
+Item,Sane Price,DMPG Price,DMG Price,Rarity,Source,Page,Type,Attunement
+Adamantine Armor,500,500,101-500,Uncommon,DMG,150,Armor,No
+Alchemy Jug,6000,100,101-500,Uncommon,DMG,150,Wondrous Items,No
+Ammunition +1 (Ea),25,50,101-500,Uncommon,DMG,150,Ammunition,No
+Ammunition +2 (Ea),100,250,501-5000,Rare,DMG,150,Ammunition,No
+Ammunition +3 (Ea),400,2500,5001-50000,Very Rare,DMG,150,Ammunition,No
+Apparatus Of Kwalish,10000,90000,50001,Legendary,DMG,151,Wondrous Items,No
+Apparatus Of The Crab,10000,90000,50001,Legendary,BR,,Wondrous Items,No
+Armor Of Gleaming (any medium or heavy),,75,50-100,Common,XGE,136,Armor,No
+Armor +1,1500,3500,501-5000,Rare,DMG,152,Armor,No
+Armor +2,6000,20000,5001-50000,Very Rare,DMG,152,Armor,No
+Armor +3,24000,51000,50001,Legendary,DMG,152,Armor,No
+Arrow Of Slaying (Ea),600,1000,5001-50000,Very Rare,DMG,152,Ammunition,No
+Bag Of Beans,,4200,501-5000,Rare,DMG,152,Wondrous Items,No
+Bag Of Bounty,,,101-500,Uncommon,WGE,,Wondrous Items,No
+Bag Of Bounty,,,101-500,Uncommon,EBR,,Wondrous Items,No
+Bag Of Devouring,,12000,5001-50000,Very Rare,DMG,153,Wondrous Items,No
+Bag Of Holding,4000,500,101-500,Uncommon,DMG,153,Wondrous Items,No
+Bag Of Tricks,,350,101-500,Uncommon,DMG,154,Wondrous Items,No
+Balance Of Harmony,,200,101-500,Uncommon,TYP,228,Wondrous Items,No
+Balloon Pack,,275,101-500,Uncommon,PA,222,Wondrous Items,No
+Bead Of Force,960,3000,501-5000,Rare,DMG,154,Wondrous Items,No
+Bead Of Nourishment,,25,50-100,Common,XGE,136,Wondrous Items,No
+Bead Of Refreshment,,25,50-100,Common,XGE,136,Wondrous Items,No
+Bonecounter,,,501-5000,Rare,SDW,,Weapons,No
+Boomerang +1,,,101-500,Uncommon,BR,,Weapons,No
+Boomerang +2,,,101-500,Uncommon,BR,,Weapons,No
+Boomerang +3,,,501-5000,Rare,BR,,Weapons,No
+Boots Of Elvenkind,2500,400,101-500,Uncommon,DMG,155,Wondrous Items: Feet,No
+Boots Of False Tracks,,60,50-100,Common,XGE,136,Wondrous Items: Feet,No
+Bottled Breath,,350,101-500,Uncommon,PA,222,Potions & Oils,No
+Bowl Of Commanding Water Elementals,8000,4700,501-5000,Rare,DMG,156,Wondrous Items,No
+Brazier Of Commanding Fire Elementals,8000,4700,501-5000,Rare,DMG,156,Wondrous Items,No
+Broom Of Flying,8000,450,101-500,Uncommon,DMG,156,Wondrous Items,No
+Candle Of The Deep,,50,50-100,Common,XGE,136,Wondrous Items,No
+Cap Of Water Breathing,1000,450,101-500,Uncommon,DMG,157,Wondrous Items: Head,No
+Cape Of The Mountebank,8000,3900,501-5000,Rare,DMG,157,Wondrous Items: Shoulders,No
+Carpet Of Flying,12000,44000,5001-50000,Very Rare,DMG,157,Wondrous Items,No
+Cartographers Map Case,,,50-100,Common,AI,,Wondrous Items,No
+Cast Off Armor,,50,50-100,Common,XGE,136,Armor,No
+Censer Of Controlling Air Elementals,8000,4700,501-5000,Rare,DMG,158,Wondrous Items,No
+Chest Of Preserving,,,50-100,Common,DMM,,Wondrous Items,No
+Chime Of Opening,1500,3000,501-5000,Rare,DMG,158,Wondrous Items,No
+Circlet Of Blasting,1500,350,101-500,Uncommon,DMG,158,Wondrous Items: Head,No
+Cleansing Stone,,,50-100,Common,WGE,,Wondrous Items,No
+Cleansing Stone,,,50-100,Common,EBR,,Wondrous Items,No
+Cloak Of Billowing,,100,50-100,Common,XGE,136,Wondrous Items: Shoulders,No
+Cloak Of Many Fashions,,90,50-100,Common,XGE,136,Wondrous Items: Shoulders,No
+Cloak Of The Manta Ray,6000,350,101-500,Uncommon,DMG,159,Wondrous Items: Shoulders,No
+Clockwork Amulet,,100,50-100,Common,XGE,137,Wondrous Items: Neck,No
+Clothes Of Mending,,50,50-100,Common,XGE,137,Wondrous Items: Body,No
+Coin Of Decisionry,,,Varies,Varies,AI,,Wondrous Items,No
+Cubic Gate,40000,164000,50001,Legendary,DMG,160,Wondrous Items,No
+Daern's Instant Fortress,75000,5000,501-5000,Rare,DMG,160,Wondrous Items,No
+Dagger Of Venom,2500,1500,501-5000,Rare,DMG,160,Weapons,No
+Decanter Of Endless Water,135000,300,101-500,Uncommon,DMG,160,Wondrous Items,No
+Deck Of Illusions,6120,450,101-500,Uncommon,DMG,161,Wondrous Items,No
+Deck Of Many Things,,200000,50001,Legendary,DMG,162,Wondrous Items,No
+Deck Of Several Things,,,50001,Legendary,LLK,,Wondrous Items,No
+Devastation Orb (Air),,8000,5001-50000,Very Rare,PA,222,Wondrous Items,No
+Devastation Orb (Earth),,11000,5001-50000,Very Rare,PA,222,Wondrous Items,No
+Devastation Orb (Fire),,9500,5001-50000,Very Rare,PA,222,Wondrous Items,No
+Devastation Orb (Water),,9500,5001-50000,Very Rare,PA,223,Wondrous Items,No
+Dimensional Seal,,,50001,Legendary,WGE,,Wondrous Items,No
+Dimensional Seal,,,50001,Legendary,EBR,,Wondrous Items,No
+Dimensional Shackles,3000,2800,501-5000,Rare,DMG,165,Wondrous Items,No
+Documancy Satchel,,,Varies,Varies,AI,,Wondrous Items,No
+Dodecahedron Of Doom,,,501-5000,Rare,DMM,,Wondrous Items,No
+Draakhorn,,,Priceless,Artifact,RT,,Wondrous Items,No
+Dragon Slayer (any sword),8000,5000,501-5000,Rare,DMG,166,Weapons,No
+Dragonguard,,,501-5000,Rare,LMP,,Armor,No
+Dragontooth Dagger,,5000,501-5000,Rare,RT,93,Weapons,No
+Dread Helm,,55,50-100,Common,XGE,137,Wondrous Items: Head,No
+Driftglobe,750,100,101-500,Uncommon,DMG,166,Wondrous Items,No
+Dust Of Disappearance,300,200,101-500,Uncommon,DMG,166,Wondrous Items,No
+Dust Of Dryness (1 pellet),120,350,101-500,Uncommon,DMG,166,Wondrous Items,No
+Dust Of Sneezing And Choking,480,150,101-500,Uncommon,DMG,166,Wondrous Items,No
+Dwarven Plate,9000,25000,5001-50000,Very Rare,DMG,167,Armor,No
+Eagle Whistle,,600,501-5000,Rare,TYP,228,Wondrous Items,No
+Ear Horn Of Hearing,,75,50-100,Common,XGE,137,Wondrous Items,No
+Efficient Quiver,,,101-500,Uncommon,BR,,Wondrous Items,No
+Efreeti Bottle,,45000,5001-50000,Very Rare,DMG,167,Wondrous Items,No
+Elder Cartographers Glossography,,,101-500,Uncommon,AI,,Wondrous Items,No
+Elemental Gem,960,250,101-500,Uncommon,DMG,167,Wondrous Items,No
+Elixir Of Health,120,2000,501-5000,Rare,DMG,168,Potions & Oils,No
+Elven Chain,4000,4500,501-5000,Rare,DMG,168,Armor,No
+Enduring Spellbook,,100,50-100,Common,XGE,137,Wondrous Items,No
+Everbright Lantern,,,50-100,Common,WGE,,Wondrous Items,No
+Everbright Lantern,,,50-100,Common,EBR,,Wondrous Items,No
+Eversmoking Bottle,1000,270,101-500,Uncommon,DMG,168,Wondrous Items,No
+Eyes Of Minute Seeing,2500,150,101-500,Uncommon,DMG,168,Wondrous Items: Eyes,No
+Feather Token,,,501-5000,Rare,BR,,Wondrous Items,No
+Feather Token (Feather Fall),,,50-100,Common,WGE,,Wondrous Items,No
+Feather Token Feather Fall,,,50-100,Common,EBR,,Wondrous Items,No
+Figurine of Wondrous Power (Bronze Griffon),8000,3600,501-5000,Rare,DMG,169,Wondrous Items,No
+Figurine of Wondrous Power (Ebony Fly),6000,3600,501-5000,Rare,DMG,169,Wondrous Items,No
+Figurine of Wondrous Power (Golden Lions),600,5000,501-5000,Rare,DMG,169,Wondrous Items,No
+Figurine of Wondrous Power (Ivory Goats - Terror),20000,5000,501-5000,Rare,DMG,169,Wondrous Items,No
+Figurine of Wondrous Power (Ivory Goats - Travail),400,5000,501-5000,Rare,DMG,169,Wondrous Items,No
+Figurine of Wondrous Power (Ivory Goats - Travelling),1000,5000,501-5000,Rare,DMG,169,Wondrous Items,No
+Figurine of Wondrous Power (Marble Elephant),6000,5000,501-5000,Rare,DMG,170,Wondrous Items,No
+Figurine of Wondrous Power (Obsidian Steed),128000,28500,5001-50000,Very Rare,DMG,170,Wondrous Items,No
+Figurine of Wondrous Power (Onyx Dog),3000,3200,501-5000,Rare,DMG,170,Wondrous Items,No
+Figurine of Wondrous Power (Serpentine Owl),8000,3000,501-5000,Rare,DMG,170,Wondrous Items,No
+Figurine of Wondrous Power (Silver Raven),5000,380,101-500,Uncommon,DMG,170,Wondrous Items,No
+Folding Boat,10000,4750,501-5000,Rare,DMG,170,Wondrous Items,No
+Gem Of Brightness,5000,250,101-500,Uncommon,DMG,171,Wondrous Items,No
+Giant Slayer (any sword or axe),7000,4600,501-5000,Rare,DMG,172,Weapons,No
+Glamerweave,,,50-100,Common,WGE,,Wondrous Items,No
+Glamerweave,,,Varies,Varies,EBR,,Wondrous Items,No
+Glamoured Studded Leather,2000,4800,501-5000,Rare,DMG,172,Armor,No
+Gloves Of Thievery,5000,300,101-500,Uncommon,DMG,172,Wondrous Items: Hands,No
+Gnomengarde Grenade,,,Varies,Varies,DC,,Wondrous Items,No
+Goggles Of Night,1500,300,101-500,Uncommon,DMG,172,Wondrous Items: Eyes,No
+Guild Charms,,450,101-500,Uncommon,GGR,173,Wondrous Items,No
+Handy Haversack,2000,2000,501-5000,Rare,DMG,174,Wondrous Items,No
+Hat Of Vermin,,65,50-100,Common,XGE,137,Wondrous Items: Head,No
+Hellfire Weapon,,,101-500,Uncommon,BGA,,Weapons,No
+Helm Of Comprehending Languages,500,200,101-500,Uncommon,DMG,173,Wondrous Items: Head,No
+Hew,,,101-500,Uncommon,LMP,,Weapons,No
+Heward's Handy Haversack,2000,2000,501-5000,Rare,DMG,174,Wondrous Items,No
+Heward's Handy Spice Pouch,,100,50-100,Common,XGE,137,Wondrous Items,No
+Horn Of Blasting,450,2500,501-5000,Rare,DMG,174,Wondrous Items,No
+Horn Of Silent Alarm,,85,50-100,Common,XGE,137,Wondrous Items,No
+Horn Of The Endless Maze,,,501-5000,Rare,DMM,,Wondrous Items,No
+Horn Of Valhalla (Brass),8400,5000,501-5000,Rare,DMG,175,Wondrous Items,No
+Horn Of Valhalla (Bronze),11200,20000,5001-50000,Very Rare,DMG,175,Wondrous Items,No
+Horn Of Valhalla (Iron),14000,50000,50001,Legendary,DMG,175,Wondrous Items,No
+Horn Of Valhalla (Silver),5600,5000,501-5000,Rare,DMG,175,Wondrous Items,No
+Horseshoes Of A Zephyr,1500,6000,5001-50000,Very Rare,DMG,175,Wondrous Items,No
+Horseshoes Of Speed,5000,3000,501-5000,Rare,DMG,175,Wondrous Items,No
+Infernal Puzzle Box,,,101-500,Uncommon,BGA,,Wondrous Items,No
+Insignia Of Claws,,450,101-500,Uncommon,HDQ,94,Wondrous Items,No
+Instant Fortress,,,501-5000,Rare,BR,,Wondrous Items,No
+Iron Bands Of Bilarro,4000,2600,501-5000,Rare,DMG,177,Wondrous Items,No
+Iron Bands Of Binding,4000,2600,501-5000,Rare,BR,,Wondrous Items,No
+Iron Flask,,170000,50001,Legendary,DMG,178,Wondrous Items,No
+Javelin Of Lightning,1500,350,101-500,Uncommon,DMG,178,Weapons,No
+Keoghtom's Ointment (Per Dose),120,400,101-500,Uncommon,DMG,179,Wondrous Items,No
+Keycharm,,,50-100,Common,,,Wondrous Items,No
+Lantern Of Revealing,5000,500,101-500,Uncommon,DMG,179,Wondrous Items,No
+Lightbringer,,,101-500,Uncommon,LMP,,Weapons,No
+Living Loot Satchel,,,Varies,Varies,AI,,Wondrous Items,No
+Loadstone,,150,501-5000,Rare,TYP,228,Wondrous Items,No
+Lock Of Trickery,,50,50-100,Common,XGE,138,Wondrous Items,No
+Mace Of Smiting,7000,2000,501-5000,Rare,DMG,179,Weapons,No
+Manual Of Bodily Health,,36000,5001-50000,Very Rare,DMG,180,Wondrous Items,No
+Manual Of Gainful Exercise,,36000,5001-50000,Very Rare,DMG,180,Wondrous Items,No
+Manual Of Golems,,22000,5001-50000,Very Rare,DMG,180,Wondrous Items,No
+Manual Of Quickness Of Action,,36000,5001-50000,Very Rare,DMG,181,Wondrous Items,No
+Many-Handed Pouch,,,Varies,Varies,UA,,Wondrous Items,No
+Mariner's Armor,1500,400,101-500,Uncommon,DMG,181,Armor,No
+Marvelous Pigments,,,5001-50000,Very Rare,BR,,Wondrous Items,No
+Mask Of The Beast,,200,101-500,Uncommon,TA,207,Wondrous Items: Eyes,No
+Master's Amulet,,,501-5000,Rare,BR,,Wondrous Items,No
+Mirror Of Life Trapping,18000,50000,5001-50000,Very Rare,DMG,181,Wondrous Items,No
+Mirror Of The Past,,3800,501-5000,Rare,TYP,228,Wondrous Items,No
+Mithral Armor (medium or heavy not hide),800,450,101-500,Uncommon,DMG,182,Armor,No
+Mithral Half Plate +1,,,501-5000,Rare,AI,,Armor,No
+Mizzium Armor,,1500,501-5000,Rare,GGR,179,Armor,No
+Mizzium Mortar,,2100,501-5000,Rare,GGR,179,Wondrous Items,No
+Moodmark Paint,,50,50-100,Common,GGR,180,Wondrous Items,No
+Moon-Touched Sword,,75,50-100,Common,XGE,138,Weapons,No
+Mystery Key,,50,50-100,Common,XGE,138,Wondrous Items,No
+Necklace of Fireballs (1 Bead),300,725,501-5000,Rare,DMG,182,Wondrous Items: Neck,No
+Necklace of Fireballs (2 Beads),480,1450,501-5000,Rare,DMG,182,Wondrous Items: Neck,No
+Necklace of Fireballs (3 Beads),960,2175,501-5000,Rare,DMG,182,Wondrous Items: Neck,No
+Necklace of Fireballs (4 Beads),1600,2900,501-5000,Rare,DMG,182,Wondrous Items: Neck,No
+Necklace of Fireballs (5 Beads),3840,3625,501-5000,Rare,DMG,182,Wondrous Items: Neck,No
+Necklace of Fireballs (6 Beads),7680,4350,501-5000,Rare,DMG,182,Wondrous Items: Neck,No
+Night Caller,,350,101-500,Uncommon,TYP,228,Wondrous Items,No
+Nolzur's Marvelous Pigments,200,16000,5001-50000,Very Rare,DMG,183,Wondrous Items,No
+Obsidian Flint Dragon Plate,,,50001,Legendary,BGA,,Armor,No
+Obviator's Lenses,,,Varies,Varies,AI,,Wondrous Items,No
+Occultant Abacus,,,Varies,Varies,AI,,Wondrous Items,No
+Oil Of Etherealness,1920,2000,501-5000,Rare,DMG,183,Potions & Oils,No
+Oil Of Sharpness,3200,2300,5001-50000,Very Rare,DMG,184,Potions & Oils,No
+Oil Of Slipperiness,480,250,101-500,Uncommon,DMG,184,Potions & Oils,No
+Orb Of Direction,,50,50-100,Common,XGE,138,Wondrous Items,No
+Orb Of Gonging,,,50-100,Common,DMM,,Wondrous Items,No
+Orb Of Time,,50,50-100,Common,XGE,138,Wondrous Items,No
+Paper Bird,,350,101-500,Uncommon,WDH,191,Wondrous Items,No
+Perfume Of Bewitching,,75,50-100,Common,XGE,138,Potions & Oils,No
+Periapt Of Health,5000,250,101-500,Uncommon,DMG,184,Wondrous Items: Neck,No
+Periapt Of Proof Against Poison,5000,4700,501-5000,Rare,DMG,184,Wondrous Items: Neck,No
+Philter Of Love,90,150,101-500,Uncommon,DMG,184,Potions & Oils,No
+Pipe Of Remembrance,,,50-100,Common,GoS,,Wondrous Items,No
+Pipe Of Smoke Monsters,,50,50-100,Common,XGE,138,Wondrous Items,No
+Pipes Of Haunting,6000,300,101-500,Uncommon,DMG,185,Wondrous Items,No
+Pole Of Angling,,50,50-100,Common,XGE,138,Wondrous Items,No
+Pole Of Collapsing,,55,50-100,Common,XGE,138,Wondrous Items,No
+Portable Hole,8000,5000,501-5000,Rare,DMG,185,Wondrous Items,No
+Portfolio Keeper,,,Varies,Varies,AI,,Wondrous Items,No
+Pot Of Awakening,,85,50-100,Common,XGE,138,Wondrous Items,No
+Potion Of Animal Friendship,200,200,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Clairvoyance,960,900,501-5000,Rare,DMG,187,Potions & Oils,No
+Potion Of Climbing,180,30,50-100,Common,DMG,187,Potions & Oils,No
+Potion Of Comprehension,,,50-100,Common,WDH,,Potions & Oils,No
+Potion Of Diminution,270,500,501-5000,Rare,DMG,187,Potions & Oils,No
+Potion Of Fire Breath,150,350,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Flying,500,2500,5001-50000,Very Rare,DMG,187,Potions & Oils,No
+Potion Of Gaseous Form,300,1500,501-5000,Rare,DMG,187,Potions & Oils,No
+Potion Of Giant Size,,11000,50001,Legendary,SKT,236,Potions & Oils,No
+Potion Of Giant Strength (Cloud),,1800,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Giant Strength (Fire),,1200,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Giant Strength (Frost/Stone),,650,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Giant Strength (Hill),,125,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Giant Strength (Storm),,8000,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Growth,270,300,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Healing,50,50,50-100,Common,DMG,187,Potions & Oils,No
+Potion Of Healing (Greater),150,300,101-500,Uncommon,DMG,187,Potions & Oils,No
+Potion Of Healing (Superior),450,750,5001-50000,Very Rare,DMG,187,Potions & Oils,No
+Potion Of Healing (Supreme),1350,1500,5001-50000,Very Rare,DMG,187,Potions & Oils,No
+Potion Of Heroism,180,800,501-5000,Rare,DMG,188,Potions & Oils,No
+Potion Of Invisibility,180,2000,5001-50000,Very Rare,DMG,188,Potions & Oils,No
+Potion Of Invulnerability,3840,1500,501-5000,Rare,DMG,188,Potions & Oils,No
+Potion Of Longevity,9000,3000,5001-50000,Very Rare,DMG,188,Potions & Oils,No
+Potion Of Mind Control (Beast),,1600,501-5000,Rare,TYP,229,Potions & Oils,No
+Potion Of Mind Control (Humanoid),,2500,501-5000,Rare,TYP,229,Potions & Oils,No
+Potion Of Mind Control (Monster),,6000,5001-50000,Very Rare,TYP,229,Potions & Oils,No
+Potion Of Mind Reading,180,1100,501-5000,Rare,DMG,188,Potions & Oils,No
+Potion Of Poison,100,500,101-500,Uncommon,DMG,188,Potions & Oils,No
+Potion Of Resistance,300,500,101-500,Uncommon,DMG,188,Potions & Oils,No
+Potion Of Speed,400,2000,5001-50000,Very Rare,DMG,188,Potions & Oils,No
+Potion Of Vitality,960,1800,101-500,Uncommon,DMG,188,Potions & Oils,No
+Potion Of Watchful Rest,,,50-100,Common,WDH,,Potions & Oils,No
+Potion Of Water Breathing,180,400,501-5000,Rare,DMG,188,Potions & Oils,No
+Pressure Capsule,,,50-100,Common,GoS,,Wondrous Items,No
+Professor Orb,,,501-5000,Rare,DMM,,Wondrous Items,No
+Quaals Feather Token (Anchor),50,1000,501-5000,Rare,DMG,188,Wondrous Items,No
+Quaals Feather Token (Bird),3000,1000,501-5000,Rare,DMG,188,Wondrous Items,No
+Quaals Feather Token (Fan),250,1000,501-5000,Rare,DMG,188,Wondrous Items,No
+Quaals Feather Token (Swan Boat),3000,1000,501-5000,Rare,DMG,188,Wondrous Items,No
+Quaals Feather Token (Whip),250,1000,501-5000,Rare,DMG,188,Wondrous Items,No
+Quiver Of Ehlonna,1000,250,101-500,Uncommon,DMG,189,Wondrous Items,No
+Restorative Ointment,,,101-500,Uncommon,BR,,Wondrous Items,No
+Returning Weapon,,,Varies,Varies,UA,,Weapons,No
+Revenant Double Bladed Scimitar,,,50-100,Common,EBR,,Weapons,No
+Revenant Double-Bladed Scimitar,,,50-100,Common,WGE,,Weapons,No
+Ring Of Animal Influence,4000,1000,501-5000,Rare,DMG,189,Rings,No
+Ring Of Swimming,3000,300,101-500,Uncommon,DMG,193,Rings,No
+Ring Of Three Wishes,,97950,50001,Legendary,DMG,193,Rings,No
+Ring Of Water Walking,1500,500,101-500,Uncommon,DMG,193,Rings,No
+Rings Of Shared Suffering,,,101-500,Uncommon,WGE,,Rings,No
+Rings Of Shared Suffering,,,101-500,Uncommon,EBR,,Ring,No
+Robe Of Useful Items,Items * 5,400,101-500,Uncommon,DMG,195,Wondrous Items: Body,No
+Rod Of Security,90000,45000,5001-50000,Very Rare,DMG,197,Rods,No
+Rope Of Climbing,2000,350,101-500,Uncommon,DMG,197,Wondrous Items,No
+Rope Of Entanglement,4000,1000,501-5000,Rare,DMG,197,Wondrous Items,No
+Rope Of Mending,,50,50-100,Common,XGE,138,Wondrous Items,No
+Ruinstone,,,Priceless,Artifact,DC,,,No
+Saddle Of The Cavalier,2000,250,101-500,Uncommon,DMG,199,Wondrous Items,No
+Scribe's Pen,,,50-100,Common,WGE,,Wondrous Items,No
+Scroll Of Protection,180,3500,501-5000,Rare,DMG,199,Spell Scrolls,No
+Seeker Dart,,100,101-500,Uncommon,PA,223,Weapons,No
+Sekolahian Worshiping Statuette,,,50-100,Common,GoS,,Wondrous Items,No
+Sending Stone,,,101-500,Uncommon,AI,,Wondrous Items,No
+Sending Stones,2000,500,101-500,Uncommon,DMG,199,Wondrous Items,No
+Sentinel Shield,20000,300,101-500,Uncommon,DMG,199,Shields,No
+Shield Of Expression,,50,50-100,Common,XGE,139,Shields,No
+Shield Of Far Sight,,,501-5000,Rare,VGM,,Shields,No
+Shield +1,1500,450,101-500,Uncommon,DMG,200,Shields,No
+Shield +2,6000,4000,501-5000,Rare,DMG,200,Shields,No
+Shield +3,24000,22000,5001-50000,Very Rare,DMG,200,Shields,No
+Shiftweave,,,50-100,Common,WGE,,Wondrous Items,No
+Shiftweave,,,50-100,Common,EBR,,Wondrous Items,No
+Smokepowder,,325,101-500,Uncommon,WDH,192,Wondrous Items,No
+Smoldering Armor,,75,50-100,Common,XGE,139,Armor,No
+Soul Coin,,,101-500,Uncommon,BGA,,Wondrous Items,No
+Sovereign Glue,400,5000,50001,Legendary,DMG,200,Wondrous Items,No
+Speaking Stone,,,101-500,Uncommon,WGE,,Wondrous Items,No
+Speaking Stone,,,501-5000,Rare,EBR,,Wondrous Items,No
+Spell Scroll (Level 0),10,15,50-100,Common,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 1),60,25,50-100,Common,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 2),120,150,101-500,Uncommon,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 3),200,400,101-500,Uncommon,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 4),320,800,501-5000,Rare,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 5),640,1500,501-5000,Rare,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 6),1280,2000,5001-50000,Very Rare,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 7),2560,3500,5001-50000,Very Rare,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 8),5120,5000,5001-50000,Very Rare,DMG,200,Spell Scrolls,No
+Spell Scroll (Level 9),10240,20000,50001,Legendary,DMG,200,Spell Scrolls,No
+Spell Sink,,,50001,Legendary,WGE,,Wondrous Items,No
+Spell Sink,,,50001,Legendary,EBR,,Wondrous Items,No
+Spellshard,,,50-100,Common,WGE,,Wondrous Items,No
+Spellshard,,,50-100,Common,EBR,,Wondrous Items,No
+Sphere Of Annihilation,15000,200000,50001,Legendary,DMG,201,Wondrous Items,No
+Spyglass Of Clairvoyance,,,50-100,Common,AI,,Wondrous Items,No
+Staff Of Adornment,,50,50-100,Common,XGE,139,Staffs,No
+Staff Of Birdcalls,,70,50-100,Common,XGE,139,Staffs,No
+Staff Of Flowers,,50,50-100,Common,XGE,139,Staffs,No
+Stone Of Controlling Earth Elementals,8000,4700,501-5000,Rare,DMG,205,Wondrous Items,No
+Storm Boomerang,,150,101-500,Uncommon,PA,223,Weapons,No
+Tankard Of Plenty,,,50-100,Common,HDQ,,Wondrous Items,No
+Tankard Of Sobriety,,80,50-100,Common,XGE,139,Wondrous Items,No
+Tome Of Clear Thought,,36000,5001-50000,Very Rare,DMG,208,Wondrous Items,No
+Tome Of Leadership And Influence,,36000,5001-50000,Very Rare,DMG,208,Wondrous Items,No
+Tome Of Understanding,,36000,5001-50000,Very Rare,DMG,209,Wondrous Items,No
+Travel Alchemical Kit,,,101-500,Uncommon,AI,,Wondrous Items,No
+Unbreakable Arrow,,25,50-100,Common,XGE,139,Ammunition,No
+Uncommon Glamerweave,,,101-500,Uncommon,EBR,,Wondrous Items,No
+Universal Solvent,300,5000,50001,Legendary,DMG,209,Wondrous Items,No
+Veteran's Cane,,50,50-100,Common,XGE,139,Weapons,No
+Vicious Rapier +1,,,501-5000,Rare,AI,,Weapons,No
+Vicious Weapon (any weapon),350,4000,501-5000,Rare,DMG,209,Weapons,No
+Voting Kit,,,50-100,Common,AI,,Wondrous Items,No
+Walloping Ammunition,,30,50-100,Common,XGE,139,Ammunition,No
+Wand Of Conducting,,90,50-100,Common,XGE,140,Wands,No
+Wand Of Magic Detection,1500,150,101-500,Uncommon,DMG,211,Wands,No
+Wand Of Magic Missiles,8000,300,101-500,Uncommon,DMG,211,Wands,No
+Wand Of Pyrotechnics,,65,50-100,Common,XGE,140,Wands,No
+Wand Of Scowls,,60,50-100,Common,XGE,140,Wands,No
+Wand Of Secrets,1500,125,101-500,Uncommon,DMG,211,Wands,No
+Wand Of Smiles,,60,50-100,Common,XGE,140,Wands,No
+Weapon +1,1000,500,101-500,Uncommon,DMG,213,Weapons,No
+Weapon +2,4000,2500,501-5000,Rare,DMG,213,Weapons,No
+Weapon +3,16000,15000,5001-50000,Very Rare,DMG,213,Weapons,No
+Well Of Many Worlds,,90000,50001,Legendary,DMG,213,Wondrous Items,No
+Wheel Of Wind And Water,,,101-500,Uncommon,WGE,,Wondrous Items,No
+Wheel Of Wind And Water,,,101-500,Uncommon,EBR,,Wondrous Items,No
+Whisper Jar,,,Varies,Varies,AI,,Wondrous Items,No
+Wind Fan,1500,150,101-500,Uncommon,DMG,213,Wondrous Items,No
+Winters Dark Bite,,,101-500,Uncommon,HT,,Weapons,No
+Wyrmskull Throne,,,Priceless,Artifact,SKT,,Wondrous Items,No
+Yklwa +1,,,101-500,Uncommon,TA,,Weapons,No
+Yklwa +2,,,501-5000,Rare,TA,,Weapons,No
+Yklwa +3,,,5001-50000,Very Rare,TA,,Weapons,No
+Amulet of the Drunkard,,,101-500,Uncommon,EGW,265,Wondrous Item,No
+Arcane Cannon,,,5001-50000,Very Rare,EGW,265,Wondrous Item,No
+Breathing Bubble,,,50-100,Common,EGW,266,Wondrous Item,No
+Coin of Delving,,,50-100,Common,EGW,266,Wondrous Item,No
+Dispelling Stone,,,5001-50000,Very Rare,EGW,266,Wondrous Item,No
+Dust of Deliciousness,,,101-500,Uncommon,EGW,267,Wondrous Item,No
+Last Stand Armor,,,5001-50000,Very Rare,EGW,267,Armor,No
+Luxon Beacon,,,50001,Legendary,EGW,268,Wondrous Item,No
+Potion of Maximum Power,,,501-5000,Rare,EGW,268,Potion,No
+Potion of Possibility,,,5001-50000,Very Rare,EGW,268,Potion,No
+Reincarnation Dust,,,5001-50000,Very Rare,EGW,268,Wondrous Item,No
+Vox Seeker,,,50-100,Common,EGW,270,Wondrous Item,No
+Weapon of Certain Death,,,501-5000,Rare,EGW,270,Weapons,No
+Amulet Of Health,8000,4000,501-5000,Rare,DMG,150,Wondrous Items: Neck,Yes
+Amulet Of Proof Against Detection And Location,20000,400,101-500,Uncommon,DMG,150,Wondrous Items: Neck,Yes
+Amulet Of Protection From Turning,,3600,501-5000,Rare,TYP,228,Wondrous Items: Neck,Yes
+Amulet Of The Black Skull,,6400,5001-50000,Very Rare,TA,206,Wondrous Items: Neck,Yes
+Amulet Of The Planes,160000,43000,5001-50000,Very Rare,DMG,150,Wondrous Items: Neck,Yes
+Animated Shield,6000,6000,5001-50000,Very Rare,DMG,151,Shields,Yes
+Arcane Propulsion Arm,,,5001-50000,Very Rare,EBR,,Wondrous Items,Yes
+Arcanomechanical Armor,,,501-5000,Rare,UA,,Armor,Yes
+Armblade,,,50-100,Common,WGE,,Weapons,Yes
+Armblade,,,50-100,Common,EBR,,Weapons,Yes
+Armor Of Invulnerability,18000,70000,50001,Legendary,DMG,152,Armor,Yes
+Armor Of Resistance,6000,3000,501-5000,Rare,DMG,152,Armor,Yes
+Armor Of Vulnerability,,,501-5000,Rare,BR,,Armor,Yes
+Arrow-Catching Shield,6000,4500,501-5000,Rare,DMG,152,Shields,Yes
+Artificer Wand +1,,,Varies,Varies,UA,,Wands,Yes
+Artificer Wand +2,,,Varies,Varies,UA,,Wands,Yes
+Axe Of The Dwarvish Lords,,,Priceless,Artifact,DMG,,Weapons,Yes
+Azuredge (battleaxe),,53000,50001,Legendary,WDH,189,Weapons,Yes
+Badge Of The Watch,,3250,501-5000,Rare,WDH,189,Wondrous Items,Yes
+Band Of Loyalty,,,101-500,Uncommon,WGE,,Rings,Yes
+Band Of Loyalty,,,50-100,Common,EBR,,Ring,Yes
+Banner Of The Krig Rune,,4400,501-5000,Rare,SKT,233,Wondrous Items,Yes
+Battle Standard Of Infernal Power,,,5001-50000,Very Rare,BGA,,Wondrous Items,Yes
+Belashyrras Beholder Crown,,,50001,Legendary,EBR,,Wondrous Items,Yes
+Belt Of Dwarvenkind,6000,5000,501-5000,Rare,DMG,155,Wondrous Items: Waist,Yes
+Belt Of Giant Strength (Cloud),,66000,50001,Legendary,DMG,155,Wondrous Items: Waist,Yes
+Belt Of Giant Strength (Fire),,36000,5001-50000,Very Rare,DMG,155,Wondrous Items: Waist,Yes
+Belt Of Giant Strength (Hill),,4000,501-5000,Rare,DMG,155,Wondrous Items: Waist,Yes
+Belt Of Giant Strength (Stone/Frost),,12000,5001-50000,Very Rare,DMG,155,Wondrous Items: Waist,Yes
+Belt Of Giant Strength (Storm),,100000,50001,Legendary,DMG,155,Wondrous Items: Waist,Yes
+Berserker Axe,,,501-5000,Rare,BR,,Weapons,Yes
+Black Crystal Tablet,,,50001,Legendary,DMM,,Wondrous Items,Yes
+Black Dragon Mask,,95000,50001,Legendary,HDQ,94,Wondrous Items: Eyes,Yes
+Blackrazor,,,50001,Legendary,DMG,,Weapons,Yes
+Blackstaff,,72000,50001,Legendary,WDH,190,Staffs,Yes
+Blade Of Avernus,,,Priceless,Artifact,BGA,,Weapons,Yes
+Blade Of The Medusa,,,5001-50000,Very Rare,LLK,,Weapons,Yes
+Blast Scepter,,,5001-50000,Very Rare,DMM,,Rods,Yes
+Blod Stone,,6500,501-5000,Rare,SKT,233,Wondrous Items,Yes
+Blood Spear,,375,101-500,Uncommon,CS,221,Weapons,Yes
+Blue Dragon Mask,,,50001,Legendary,RT,,Wondrous Items,Yes
+Book Of Exalted Deeds,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Book Of Vile Darkness,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Bookmark (dagger),,30000,50001,Legendary,TA,206,Weapons,Yes
+Boots Of Levitation,4000,4500,501-5000,Rare,DMG,155,Wondrous Items: Feet,Yes
+Boots Of Speed,4000,3000,501-5000,Rare,DMG,155,Wondrous Items: Feet,Yes
+Boots Of Striding And Springing,5000,200,101-500,Uncommon,DMG,156,Wondrous Items: Feet,Yes
+Boots Of The Winding Path,,,Varies,Varies,UA,,Wondrous Items: Feet,Yes
+Boots Of The Winterlands,10000,300,101-500,Uncommon,DMG,156,Wondrous Items: Feet,Yes
+Bracelet Of Rock Magic,,9000,5001-50000,Very Rare,TYP,228,Wondrous Items: Arms & Wrists,Yes
+Bracer Of Flying Daggers,,1000,501-5000,Rare,WDH,190,Wondrous Items: Arms & Wrists,Yes
+Bracers Of Archery,1500,350,101-500,Uncommon,DMG,156,Wondrous Items: Arms & Wrists,Yes
+Bracers Of Defense,6000,4000,501-5000,Rare,DMG,156,Wondrous Items: Arms & Wrists,Yes
+Brooch Of Shielding,7500,375,101-500,Uncommon,DMG,156,Wondrous Items: Neck,Yes
+Candle Of Invocation,,8400,5001-50000,Very Rare,DMG,157,Wondrous Items,Yes
+Charlatan's Die,,80,50-100,Common,XGE,136,Wondrous Items,Yes
+Charm Of Plant Command,,,501-5000,Rare,GoS,,Wondrous Items,Yes
+Chronolometer,,,5001-50000,Very Rare,AI,,Wondrous Items,Yes
+Circlet Of Human Perfection,,,101-500,Uncommon,DMM,,Wondrous Items,Yes
+Claw Of The Wyrm Rune,,4400,501-5000,Rare,SKT,233,Wondrous Items,Yes
+Claws Of The Umber Hulk,,4300,501-5000,Rare,PA,222,Wondrous Items: Hands,Yes
+Cloak Of Arachnida,5000,14000,5001-50000,Very Rare,DMG,158,Wondrous Items: Shoulders,Yes
+Cloak Of Displacement,60000,3600,501-5000,Rare,DMG,158,Wondrous Items: Shoulders,Yes
+Cloak Of Elvenkind,5000,250,101-500,Uncommon,DMG,158,Wondrous Items: Shoulders,Yes
+Cloak Of Invisibility,80000,54000,50001,Legendary,DMG,158,Wondrous Items: Shoulders,Yes
+Cloak Of Protection,3500,400,101-500,Uncommon,DMG,159,Wondrous Items: Shoulders,Yes
+Cloak Of The Bat,6000,4600,501-5000,Rare,DMG,159,Wondrous Items: Shoulders,Yes
+Conch Of Teleportation,,1850,5001-50000,Very Rare,SKT,234,Wondrous Items,Yes
+Crystal Ball,50000,42000,5001-50000,Very Rare,DMG,159,Wondrous Items,Yes
+Crystal Ball Of Mind Reading,,51000,50001,Legendary,DMG,159,Wondrous Items,Yes
+Crystal Ball Of Telepathy,,70000,50001,Legendary,DMG,159,Wondrous Items,Yes
+Crystal Ball Of True Seeing,,80000,50001,Legendary,DMG,159,Wondrous Items,Yes
+Cube Of Force,16000,5000,501-5000,Rare,DMG,159,Wondrous Items,Yes
+Cursed Luckstone,,,101-500,Uncommon,GoS,,Wondrous Items,Yes
+Dagger Of Blindsight,,,501-5000,Rare,DMM,,Weapons,Yes
+Dancing Sword (any sword),2000,10000,5001-50000,Very Rare,DMG,160,Weapons,Yes
+Dark Shard Amulet,,75,50-100,Common,XGE,137,Wondrous Items: Neck,Yes
+Dawnbringer (longsword),,57000,50001,Legendary,OA,222,Weapons,Yes
+Defender (any sword),24000,55000,50001,Legendary,DMG,164,Weapons,Yes
+Demon Armor (plate) (cursed),,7500,5001-50000,Very Rare,DMG,165,Armor,Yes
+Dimensional Loop,,,5001-50000,Very Rare,AI,,Wondrous Items,Yes
+Docent,,,501-5000,Rare,WGE,,Wondrous Items,Yes
+Docent,,,501-5000,Rare,EBR,,Wondrous Items,Yes
+Dragon Scale Mail,4000,15000,5001-50000,Very Rare,DMG,165,Armor,Yes
+Dragonstaff Of Ahghairon,,50500,50001,Legendary,WDH,191,Staffs,Yes
+Drown (trident),,66000,50001,Legendary,PA,224,Weapons,Yes
+Dwarven Thrower (warhammer),18000,25000,5001-50000,Very Rare,DMG,167,Weapons,Yes
+Dyrrns Tentacle Whip,,,5001-50000,Very Rare,EBR,,Weapons,Yes
+Earworm,,,101-500,Uncommon,EBR,,Wondrous Items,Yes
+Efreeti Chain (chain mail),20000,80000,50001,Legendary,DMG,167,Armor,Yes
+Ersatz Eye,,75,50-100,Common,XGE,137,Wondrous Items: Eyes,Yes
+Eye And Hand Of Vecna,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Eye Of Vecna,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Eyes Of Charming,3000,300,101-500,Uncommon,DMG,168,Wondrous Items: Eyes,Yes
+Eyes Of The Eagle,2500,400,101-500,Uncommon,DMG,168,Wondrous Items: Eyes,Yes
+Failed Experiment Wand,,,501-5000,Rare,AI,,Wands,Yes
+Fane Eater,,,50001,Legendary,BGA,,Weapons,Yes
+Far Gear,,,5001-50000,Very Rare,AI,,Wondrous Items,Yes
+Feather Of Diatryma Summoning,,600,501-5000,Rare,WDH,191,Wondrous Items,Yes
+Fernian Ash Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Fernian Ash Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Finders Goggles,,,101-500,Uncommon,EBR,,Wondrous Items,Yes
+Flame Tongue,5000,5000,501-5000,Rare,DMG,170,Weapons,Yes
+Frost Brand (any sword),2200,11000,5001-50000,Very Rare,DMG,171,Weapons,Yes
+Galder's Bubble Pipe,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Gamblers Blade,,,501-5000,Rare,LLK,,Weapons,Yes
+Gauntlets Of Flaming Fury,,,501-5000,Rare,BGA,,Wondrous Items,Yes
+Gauntlets Of Ogre Power,8000,450,101-500,Uncommon,DMG,171,Wondrous Items: Hands,Yes
+Gavel Of The Venn Rune,,2800,501-5000,Rare,SKT,234,Wondrous Items,Yes
+Gem Of Seeing,32000,5000,501-5000,Rare,DMG,172,Wondrous Items,Yes
+Ghost Lantern,,1750,501-5000,Rare,TA,206,Wondrous Items,Yes
+Gloves Of Missile Snaring,3000,325,101-500,Uncommon,DMG,172,Wondrous Items: Hands,Yes
+Gloves Of Swimming And Climbing,2000,250,101-500,Uncommon,DMG,172,Wondrous Items: Hands,Yes
+Greater Silver Sword,,,50001,Legendary,MTF,,Weapons,Yes
+Green Dragon Mask,,,50001,Legendary,RT,,Wondrous Items,Yes
+Guild Keyrune (Azorius),,1000,501-5000,Rare,GGR,177,Wondrous Items,Yes
+Guild Keyrune (Boros),,3500,501-5000,Rare,GGR,177,Wondrous Items,Yes
+Guild Keyrune (Dimir),,26000,5001-50000,Very Rare,GGR,177,Wondrous Items,Yes
+Guild Keyrune (Golgari),,7500,5001-50000,Very Rare,GGR,177,Wondrous Items,Yes
+Guild Keyrune (Gruul),,2800,501-5000,Rare,GGR,177,Wondrous Items,Yes
+Guild Keyrune (Izzet),,1850,501-5000,Rare,GGR,177,Wondrous Items,Yes
+Guild Keyrune (Orzhov),,1100,501-5000,Rare,GGR,178,Wondrous Items,Yes
+Guild Keyrune (Rakdos),,400,101-500,Uncommon,GGR,178,Wondrous Items,Yes
+Guild Keyrune (Selesnya),,1500,501-5000,Rare,GGR,178,Wondrous Items,Yes
+Guild Keyrune (Simic),,500,101-500,Uncommon,GGR,178,Wondrous Items,Yes
+Guild Signet,,350,101-500,Uncommon,GGR,178,Rings,Yes
+Gulthias Staff,,2200,501-5000,Rare,CS,221,Staffs,Yes
+Gurt's Greataxe,,67000,50001,Legendary,SKT,234,Weapons,Yes
+Hammer Of Thunderbolts (maul),16000,51000,50001,Legendary,DMG,173,Weapons,Yes
+Hand Of Vecna,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Hat Of Disguise,5000,475,101-500,Uncommon,DMG,173,Wondrous Items: Head,Yes
+Hat Of Wizardry,,75,50-100,Common,XGE,137,Wondrous Items: Head,Yes
+Hazirawn (greatsword),,66000,50001,Legendary,HDQ,94,Weapons,Yes
+Headband Of Intellect,8000,450,101-500,Uncommon,DMG,173,Wondrous Items: Head,Yes
+Hell Hound Cloak,,1700,501-5000,Rare,TYP,228,Wondrous Items: Shoulders,Yes
+Helm Of Brilliance,,32000,5001-50000,Very Rare,DMG,173,Wondrous Items: Head,Yes
+Helm Of Devil Command,,,5001-50000,Very Rare,BGA,,Wondrous Items: Head,Yes
+Helm Of Telepathy,12000,300,101-500,Uncommon,DMG,174,Wondrous Items: Head,Yes
+Helm Of Teleportation,64000,4250,501-5000,Rare,DMG,174,Wondrous Items: Head,Yes
+Helm Of The Scavenger,,,50001,Legendary,DMM,,Wondrous Items,Yes
+Helm Of Underwater Action,,,101-500,Uncommon,GoS,,Wondrous Items,Yes
+Heward's Hireling Armor,,,5001-50000,Very Rare,LLK,,Armor,Yes
+Holy Avenger (any sword),165000,65000,50001,Legendary,DMG,174,Weapons,Yes
+Holy Symbol Of Ravenkind,,51000,50001,Legendary,CS,222,Wondrous Items: Neck,Yes
+Horned Ring,,,5001-50000,Very Rare,DMM,,Rings,Yes
+Icon Of Ravenloft,,50500,50001,Legendary,CS,222,Wondrous Items,Yes
+Illusionists Bracers,,13500,5001-50000,Very Rare,GGR,178,Wondrous Items: Arms & Wrists,Yes
+Imbued Wood,,,50-100,Common,WGE,,Wondrous Items,Yes
+Imbued Wood Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Immovable Rod,5000,500,101-500,Uncommon,DMG,175,Rods,Yes
+Infernal Tack,,,50001,Legendary,BGA,,Wondrous Items,Yes
+Ingot Of The Skold Rune,,15000,5001-50000,Very Rare,SKT,234,Wondrous Items,Yes
+Inquisitives Goggles,,,101-500,Uncommon,WGE,,Wondrous Items,Yes
+Inquisitives Goggles,,,101-500,Uncommon,EBR,,Wondrous Items,Yes
+Instrument Of Illusions,,100,50-100,Common,XGE,137,Wondrous Items,Yes
+Instrument Of Scribing,,80,50-100,Common,XGE,138,Wondrous Items,Yes
+Instrument of the Bards (Anstruth Harp),109000,17500,5001-50000,Very Rare,DMG,176,Wondrous Items,Yes
+Instrument of the Bards (Canaith Mandolin),30000,3750,501-5000,Rare,DMG,176,Wondrous Items,Yes
+Instrument of the Bards (Cli Lyre),35000,4250,501-5000,Rare,DMG,176,Wondrous Items,Yes
+Instrument of the Bards (Doss Lute),28500,250,101-500,Uncommon,DMG,176,Wondrous Items,Yes
+Instrument of the Bards (Fochulan Bandore),26500,350,101-500,Uncommon,DMG,176,Wondrous Items,Yes
+Instrument of the Bards (Mac-Fuirmidh Cittern),27000,450,101-500,Uncommon,DMG,176,Wondrous Items,Yes
+Instrument of the Bards (Ollamh Harp),125000,51000,50001,Legendary,DMG,176,Wondrous Items,Yes
+Ioun Stone (Absorption),2400,20000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Agility),3000,8000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Awareness),12000,4000,501-5000,Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Fortitude),3000,8000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Greater Absorption),31000,60000,50001,Legendary,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Insight),3000,8000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Intellect),3000,8000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Leadership),3000,8000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Mastery),15000,60000,50001,Legendary,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Protection),1200,3600,501-5000,Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Regeneration),4000,55000,50001,Legendary,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Reserve),6000,4500,501-5000,Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Strength),3000,8000,5001-50000,Very Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone (Sustenance),1000,3000,501-5000,Rare,DMG,177,Wondrous Items: Head,Yes
+Ioun Stone Of Historical Knowledge,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Ioun Stone Of Language Knowledge,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Ioun Stone Of Natural Knowledge,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Ioun Stone Of Religious Knowledge,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Ioun Stone Of Self Preservation,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Ioun Stone Of Supreme Intellect,,,501-5000,Rare,LLK,,Wondrous Items,Yes
+Irian Rosewood Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Irian Rosewood Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Ironfang (war pick),,76000,50001,Legendary,PA,224,Weapons,Yes
+Javelin Of Backbiting,,,5001-50000,Very Rare,TH,,Weapons,Yes
+Keycharm,,,50-100,Common,EBR,,Wondrous Items,Yes
+Knave's Eye Patch,,2000,501-5000,Rare,WDH,191,Wondrous Items: Head,Yes
+Korolnor Scepter,,63000,50001,Legendary,SKT,234,Weapons,Yes
+Kyrzins Ooze,,,5001-50000,Very Rare,EBR,,Wondrous Items,Yes
+Kythrian Manchineel Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Kythrian Manchineel Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Lamannian Oak Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Lamannian Oak Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Leather Golem Armor,,,501-5000,Rare,LLK,,Armor,Yes
+Living Armor,,,5001-50000,Very Rare,EBR,,Armor,Yes
+Living Gloves,,,101-500,Uncommon,EBR,,Wondrous Items,Yes
+Lord's Ensemble,,5000,501-5000,Rare,WDH,191,Wondrous Items: Body,Yes
+Lost Crown Of Besilmer,,23000,50001,Legendary,PA,223,Wondrous Items: Head,Yes
+Luck Blade,,100000,50001,Legendary,DMG,179,Weapons,Yes
+Mabaran Ebony Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Mabaran Ebony Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Mabaran Resonator,,,50001,Legendary,WGE,,Wondrous Items,Yes
+Mabaran Resonator,,,50001,Legendary,EBR,,Wondrous Items,Yes
+Mace Of Disruption,8000,1750,501-5000,Rare,DMG,179,Weapons,Yes
+Mace Of Terror,8000,3500,501-5000,Rare,DMG,180,Weapons,Yes
+Mantle Of Spell Resistance,30000,4200,501-5000,Rare,DMG,180,Wondrous Items: Shoulders,Yes
+Mask Of The Dragon Queen,,,50001,Legendary,RT,,Wondrous Items,Yes
+Master's Call,,,50001,Legendary,WGE,,Wondrous Items,Yes
+Masters Call,,,50001,Legendary,EBR,,Wondrous Items,Yes
+Matalotok,,,50001,Legendary,BGA,,Weapons,Yes
+Medallion Of Thoughts,3000,300,101-500,Uncommon,DMG,181,Wondrous Items: Neck,Yes
+Mind Blade,,,501-5000,Rare,VGM,,Weapons,Yes
+Mind Carapace Armor,,,101-500,Uncommon,VGM,,Armor,Yes
+Mind Lash,,,501-5000,Rare,VGM,,Weapons,Yes
+Mizzium Apparatus,,500,101-500,Uncommon,GGR,179,Wondrous Items: Body,Yes
+Moonblade,,,50001,Legendary,DMG,,Weapons,Yes
+Navigation Orb,,27000,5001-50000,Very Rare,SKT,235,Wondrous Items,Yes
+Necklace Of Adaptation,1500,450,101-500,Uncommon,DMG,182,Wondrous Items: Neck,Yes
+Necklace Of Prayer Beads (Blessing),2000,5000,501-5000,Rare,DMG,182,Wondrous Items: Neck,Yes
+Necklace Of Prayer Beads (Curing),4000,5000,501-5000,Rare,DMG,182,Wondrous Items: Neck,Yes
+Necklace Of Prayer Beads (Favor),32000,5000,501-5000,Rare,DMG,182,Wondrous Items: Neck,Yes
+Necklace Of Prayer Beads (Smiting),1500,5000,501-5000,Rare,DMG,182,Wondrous Items: Neck,Yes
+Necklace Of Prayer Beads (Summons),128000,5000,501-5000,Rare,DMG,182,Wondrous Items: Neck,Yes
+Necklace Of Prayer Beads (Wind Walking),96000,5000,501-5000,Rare,DMG,182,Wondrous Items: Neck,Yes
+Nine Lives Stealer (Fully Charged) (any sword),8000,36000,5001-50000,Very Rare,DMG,183,Weapons,Yes
+Oathbow (longbow),3500,13000,5001-50000,Very Rare,DMG,183,Weapons,Yes
+Opal Of The Ild Rune,,3500,501-5000,Rare,SKT,235,Wondrous Items,Yes
+Orb Of Dragonkind,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Orb Of Shielding,,,50-100,Common,WGE,,Wondrous Items,Yes
+Orb Of Shielding,,,50-100,Common,EBR,,Wondrous Items,Yes
+Orb Of The Stein Rune,,2700,501-5000,Rare,SKT,235,Wondrous Items,Yes
+Orcsplitter (greataxe),,60000,50001,Legendary,PA,224,Weapons,Yes
+Orrery Of The Wanderer,,,Priceless,Artifact,AI,,Wondrous Items,Yes
+Pariah's Shield,,1500,501-5000,Rare,GGR,180,Shields,Yes
+Pearl Of Power,6000,400,101-500,Uncommon,DMG,184,Wondrous Items,Yes
+Pennant Of The Vind Rune,,13000,5001-50000,Very Rare,SKT,235,Wondrous Items,Yes
+Peregrine Mask,,6000,5001-50000,Very Rare,GGR,180,Wondrous Items: Head,Yes
+Periapt Of Wound Closure,5000,375,101-500,Uncommon,DMG,184,Wondrous Items: Neck,Yes
+Piercer,,,501-5000,Rare,AI,,Weapons,Yes
+Pipes Of The Sewers,2000,150,101-500,Uncommon,DMG,185,Wondrous Items,Yes
+Piwafwi (Cloak Of Elvenkind),,200,101-500,Uncommon,OA,222,Wondrous Items: Shoulders,Yes
+Piwafwi Of Fire Resistance,,1400,501-5000,Rare,OA,222,Wondrous Items: Shoulders,Yes
+Plate Armor Of Etherealness,48000,60000,50001,Legendary,DMG,185,Armor,Yes
+Polymorph Blade,,,5001-50000,Very Rare,LLK,,Weapons,Yes
+Powered Armor,,,50001,Legendary,LLK,,Armor,Yes
+Propeller Helm,,,101-500,Uncommon,DMM,,Wondrous Items,Yes
+Prosthetic Limb,,,50-100,Common,EBR,,Wondrous Items,Yes
+Pyroconverger,,250,101-500,Uncommon,GGR,180,Wondrous Items,Yes
+Quori Beech Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Quori Beech Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Radiant Weapon,,,Varies,Varies,UA,,Weapons,Yes
+Rakdos Riteknife (dagger),,60000,50001,Legendary,GGR,180,Weapons,Yes
+Red Dragon Mask,,,50001,Legendary,RT,,Wondrous Items,Yes
+Repeating Shot Weapon,,,Varies,Varies,UA,,Weapons,Yes
+Repulsion Shield,,,Varies,Varies,UA,,Armor,Yes
+Ring Of Air Elemental Command,35000,200000,50001,Legendary,DMG,190,Rings,Yes
+Ring Of Djinni Summoning,,125000,50001,Legendary,DMG,190,Rings,Yes
+Ring Of Earth Elemental Command,31000,200000,50001,Legendary,DMG,190,Rings,Yes
+Ring Of Elemental Command,,200000,50001,Legendary,DMG,,Rings,Yes
+Ring Of Evasion,5000,4900,501-5000,Rare,DMG,191,Rings,Yes
+Ring Of Feather Falling,2000,2200,501-5000,Rare,DMG,192,Rings,Yes
+Ring Of Fire Elemental Command,17000,200000,50001,Legendary,DMG,190,Rings,Yes
+Ring Of Free Action,20000,4500,501-5000,Rare,DMG,191,Rings,Yes
+Ring Of Invisibility,10000,75000,50001,Legendary,DMG,191,Rings,Yes
+Ring Of Jumping,2500,250,101-500,Uncommon,DMG,191,Rings,Yes
+Ring Of Mind Shielding,16000,250,101-500,Uncommon,DMG,191,Rings,Yes
+Ring Of Protection,3500,3000,501-5000,Rare,DMG,191,Rings,Yes
+Ring Of Regeneration,12000,40000,5001-50000,Very Rare,DMG,191,Rings,Yes
+Ring Of Resistance,6000,3500,501-5000,Rare,DMG,192,Rings,Yes
+Ring Of Shooting Stars,14000,20000,5001-50000,Very Rare,DMG,192,Rings,Yes
+Ring Of Spell Storing,24000,3600,501-5000,Rare,DMG,192,Rings,Yes
+Ring Of Spell Turning,30000,66000,50001,Legendary,DMG,1193,Rings,Yes
+Ring Of Telekinesis,80000,25000,5001-50000,Very Rare,DMG,193,Rings,Yes
+Ring Of The Ram,5000,4000,501-5000,Rare,DMG,193,Rings,Yes
+Ring Of Truth Telling,,150,101-500,Uncommon,WDH,192,Rings,Yes
+Ring Of Warmth,1000,480,101-500,Uncommon,DMG,193,Rings,Yes
+Ring Of Water Elemental Command,25000,200000,50001,Legendary,DMG,191,Rings,Yes
+Ring Of Winter,,,Priceless,Artifact,TA,,Rings,Yes
+Ring Of X-Ray Vision,6000,3500,501-5000,Rare,DMG,193,Rings,Yes
+Risian Pine Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Risian Pine Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Robe Of Eyes,30000,5000,501-5000,Rare,DMG,193,Wondrous Items: Body,Yes
+Robe Of Scintillating Colors,6000,27000,5001-50000,Very Rare,DMG,194,Wondrous Items: Body,Yes
+Robe Of Serpents,,375,101-500,Uncommon,SKT,236,Wondrous Items: Body,Yes
+Robe Of Stars,60000,45000,5001-50000,Very Rare,DMG,194,Wondrous Items: Body,Yes
+Robe Of Summer,,2900,501-5000,Rare,TYP,229,Wondrous Items: Body,Yes
+Robe Of The Archmagi,34000,75000,50001,Legendary,DMG,194,Wondrous Items: Body,Yes
+Rod Of Absorption,50000,48000,5001-50000,Very Rare,DMG,195,Rods,Yes
+Rod Of Alertness,25000,11000,5001-50000,Very Rare,DMG,195,Rods,Yes
+Rod Of Lordly Might,28000,70000,50001,Legendary,DMG,195,Rods,Yes
+Rod Of Resurrection,,125000,50001,Legendary,DMG,197,Rods,Yes
+Rod Of Rulership,16000,3600,501-5000,Rare,DMG,197,Rods,Yes
+Rod Of The Pact Keeper +1,12000,400,101-500,Uncommon,DMG,197,Rods,Yes
+Rod Of The Pact Keeper +2,16000,4000,501-5000,Rare,DMG,197,Rods,Yes
+Rod Of The Pact Keeper +3,28000,14000,5001-50000,Very Rare,DMG,197,Rods,Yes
+Rod Of The Vonindod,,3400,501-5000,Rare,SKT,236,Rods,Yes
+Rotor Of Return,,,5001-50000,Very Rare,AI,,Wondrous Items,Yes
+Ruby Of The War Mage,,100,50-100,Common,XGE,138,Wondrous Items,Yes
+Saint Markovia's Thighbone,,,501-5000,Rare,CS,,Weapons,Yes
+Scarab Of Protection,36000,58000,50001,Legendary,DMG,199,Wondrous Items: Neck,Yes
+Scimitar Of Speed,6000,7500,5001-50000,Very Rare,DMG,199,Weapons,Yes
+Scorpion Armor (plate),,2100,501-5000,Rare,TA,208,Armor,Yes
+Scribes Pen,,,50-100,Common,EBR,,Wondrous Items,Yes
+Shard Of The Ise Rune,,9000,5001-50000,Very Rare,SKT,236,Wondrous Items,Yes
+Shatterspike (longsword),,550,101-500,Uncommon,TYP,229,Weapons,Yes
+Shavaran Birch Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Shavarran Birch Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Shield Of Missile Attraction,6000,1000,501-5000,Rare,DMG,200,Shields,Yes
+Shield Of The Hidden Lord,,,50001,Legendary,BGA,,Armor,Yes
+Shield Of The Uven Rune,,,5001-50000,Very Rare,DMM,,Shields,Yes
+Skyblinder Staff,,375,101-500,Uncommon,GGR,181,Staffs,Yes
+Slippers Of Spider Climbing,5000,500,101-500,Uncommon,DMG,200,Wondrous Items: Feet,Yes
+Spear Of Backbiting (javelin or spear),,6500,5001-50000,Very Rare,TYP,229,Weapons,Yes
+Spell Gem (Amber Level 4),,8000,5001-50000,Very Rare,OA,223,Spell Gems,Yes
+Spell Gem (Bloodstone Level 3),,4000,501-5000,Rare,OA,223,Spell Gems,Yes
+Spell Gem (Diamond Level 9),,78000,50001,Legendary,OA,223,Spell Gems,Yes
+Spell Gem (Jade Level 5),,15000,5001-50000,Very Rare,OA,223,Spell Gems,Yes
+Spell Gem (Lapis Lazuli Level 1),,350,101-500,Uncommon,OA,223,Spell Gems,Yes
+Spell Gem (Obsidian Level 0),,150,101-500,Uncommon,OA,223,Spell Gems,Yes
+Spell Gem (Quartz Level 2),,1500,501-5000,Rare,OA,223,Spell Gems,Yes
+Spell Gem (Ruby Level 8),,51000,50001,Legendary,OA,223,Spell Gems,Yes
+Spell Gem (Star Ruby Level 7),,35000,50001,Legendary,OA,223,Spell Gems,Yes
+Spell Gem (Topaz Level 6),,20000,5001-50000,Very Rare,OA,223,Spell Gems,Yes
+Spellguard Shield,50000,36000,5001-50000,Very Rare,DMG,201,Shields,Yes
+Spider Staff,,1750,501-5000,Rare,LMP,53,Staffs,Yes
+Spies' Murmur,,475,101-500,Uncommon,GGR,181,Wondrous Items: Head,Yes
+Staff Of Charming,12000,1750,501-5000,Rare,DMG,201,Staffs,Yes
+Staff Of Defense,,3400,501-5000,Rare,LMP,53,Staffs,Yes
+Staff Of Fire,16000,18000,5001-50000,Very Rare,DMG,201,Staffs,Yes
+Staff Of Frost,26000,18000,5001-50000,Very Rare,DMG,201,Staffs,Yes
+Staff Of Healing,13000,4800,501-5000,Rare,DMG,202,Staffs,Yes
+Staff Of Power,95500,46000,5001-50000,Very Rare,DMG,202,Staffs,Yes
+Staff Of Striking,21000,36000,5001-50000,Very Rare,DMG,203,Staffs,Yes
+Staff Of Swarming Insects,16000,4500,501-5000,Rare,DMG,203,Staffs,Yes
+Staff Of The Adder,1800,350,101-500,Uncommon,DMG,203,Staffs,Yes
+Staff Of The Forgotten One,,,Priceless,Artifact,TA,,Staffs,Yes
+Staff Of The Magi,,98000,50001,Legendary,DMG,203,Staffs,Yes
+Staff Of The Python,2000,250,101-500,Uncommon,DMG,204,Staffs,Yes
+Staff Of The Woodlands,44000,4500,501-5000,Rare,DMG,204,Staffs,Yes
+Staff Of Thunder And Lightning,10000,30000,5001-50000,Very Rare,DMG,204,Staffs,Yes
+Staff Of Withering,3000,2100,501-5000,Rare,DMG,205,Staffs,Yes
+Stone Of Golorr,,,Priceless,Artifact,WDH,,Wondrous Items,Yes
+Stone Of Good Luck (Luckstone),4200,400,101-500,Uncommon,DMG,205,Wondrous Items,Yes
+Stone Of Ill Luck,,400,101-500,Uncommon,TYP,229,Wondrous Items,Yes
+Stonespeaker Crystal,,4600,501-5000,Rare,OA,223,Wondrous Items,Yes
+Storm Spire,,,50001,Legendary,WGE,,Wondrous Items,Yes
+Storm Spire,,,50001,Legendary,EBR,,Wondrous Items,Yes
+Sun Blade (longsword),12000,2000,501-5000,Rare,DMG,205,Weapons,Yes
+Sunforger (warhammer),,4600,501-5000,Rare,GGR,181,Weapons,Yes
+Sunsword (longsword),,55000,50001,Legendary,CS,223,Weapons,Yes
+Sword Of Answering,36000,51000,50001,Legendary,DMG,206,Weapons,Yes
+Sword Of Kas,,,Priceless,Artifact,DMG,,Wondrous Items,Yes
+Sword Of Life Stealing (any sword),1000,2200,501-5000,Rare,DMG,206,Weapons,Yes
+Sword Of Sharpness (slashing swords),1700,42000,5001-50000,Very Rare,DMG,206,Weapons,Yes
+Sword Of The Paruns (longsword),,16000,5001-50000,Very Rare,GGR,181,Weapons,Yes
+Sword Of Vengeance (any sword),,400,101-500,Uncommon,DMG,206,Weapons,Yes
+Sword Of Wounding (any sword),2000,1200,501-5000,Rare,DMG,207,Weapons,Yes
+Sword Of Zariel,,,Priceless,Artifact,BGA,,Weapons,Yes
+Talisman Of Pure Good,71680,125000,50001,Legendary,DMG,207,Wondrous Items,Yes
+Talisman Of The Sphere,20000,75000,50001,Legendary,DMG,207,Wondrous Items,Yes
+Talisman Of Ultimate Evil,61440,125000,50001,Legendary,DMG,207,Wondrous Items,Yes
+Talking Doll,,75,50-100,Common,XGE,139,Wondrous Items,Yes
+Tentacle Rod,5000,2000,501-5000,Rare,DMG,208,Rods,Yes
+Timepiece Of Travel,,,5001-50000,Very Rare,AI,,Wondrous Items,Yes
+Tinderstrike (dagger),,71000,50001,Legendary,PA,225,Weapons,Yes
+Tome Of The Stilled Tongue,,60000,50001,Legendary,DMG,208,Wondrous Items,Yes
+Trident Of Fish Command,800,300,101-500,Uncommon,DMG,209,Weapons,Yes
+Ventilating Lungs,,,501-5000,Rare,EBR,,Wondrous Items,Yes
+Vorpal Sword,24000,75000,50001,Legendary,DMG,209,Weapons,Yes
+Voyager Staff,,10500,5001-50000,Very Rare,GGR,181,Staffs,Yes
+Wand Of Binding,10000,2500,501-5000,Rare,DMG,209,Wands,Yes
+Wand Of Enemy Detection,4000,3750,501-5000,Rare,DMG,210,Wands,Yes
+Wand Of Entangle,,300,101-500,Uncommon,TYP,229,Wands,Yes
+Wand Of Fear,10000,3250,501-5000,Rare,DMG,210,Wands,Yes
+Wand Of Fireballs,32000,4800,501-5000,Rare,DMG,210,Wands,Yes
+Wand Of Lightning Bolts,32000,4800,501-5000,Rare,DMG,211,Wands,Yes
+Wand Of Orcus,,,Priceless,Artifact,DMG,,Wands,Yes
+Wand Of Paralysis,16000,4250,501-5000,Rare,DMG,211,Wands,Yes
+Wand Of Polymorph,32000,21000,5001-50000,Very Rare,DMG,211,Wands,Yes
+Wand Of The War Mage +1,1200,400,101-500,Uncommon,DMG,212,Wands,Yes
+Wand Of The War Mage +2,4800,4000,501-5000,Rare,DMG,212,Wands,Yes
+Wand Of The War Mage +3,19200,14000,5001-50000,Very Rare,DMG,212,Wands,Yes
+Wand Of Viscid Globs,,900,501-5000,Rare,OA,223,Wands,Yes
+Wand Of Web,8000,250,101-500,Uncommon,DMG,212,Wands,Yes
+Wand Of Winter,,4100,501-5000,Rare,HDQ,94,Wands,Yes
+Wand Of Wonder,,2250,501-5000,Rare,DMG,212,Wands,Yes
+Wand Sheath,,,50-100,Common,WGE,,Wondrous Items,Yes
+Wand Sheath,,,50-100,Common,EBR,,Wondrous Items,Yes
+Wave,,,50001,Legendary,DMG,,Weapons,Yes
+Waythe (greatsword),,62000,50001,Legendary,TYP,229,Weapons,Yes
+Weapon Of Warning,60000,400,101-500,Uncommon,DMG,213,Weapons,Yes
+Weird Tank,,2200,501-5000,Rare,PA,223,Wondrous Items,Yes
+Wheel Of Stars,,,5001-50000,Very Rare,AI,,Wondrous Items,Yes
+Whelm,,,50001,Legendary,DMG,,Weapons,Yes
+White Dragon Mask,,,50001,Legendary,RT,,Wondrous Items,Yes
+Windvane,,68000,50001,Legendary,PA,225,Weapons,Yes
+Winged Boots,8000,500,101-500,Uncommon,DMG,214,Wondrous Items: Feet,Yes
+Wings Of Flying,5000,3600,501-5000,Rare,DMG,214,Wondrous Items: Shoulders,Yes
+Wingwear,,300,101-500,Uncommon,PA,223,Wondrous Items: Body,Yes
+Xorian Wenge Focus,,,50-100,Common,WGE,,Wondrous Items,Yes
+Xorian Wenge Focus,,,50-100,Common,EBR,,Wondrous Items,Yes
+Acheron Blade,,,501-5000,Rare,EGW,265,Weapons,Yes
+Battering Shield,,,501-5000,Rare,EGW,266,Armor,Yes
+Blade of Broken Mirrors,,,Priceless,Artifact,EGW,266,Weapons,Yes
+Bloodaxe,,,5001-50000,Very Rare,EGW,266,Weapons,Yes
+Brooch of Living Essence,,,101-500,Uncommon,EGW,266,Wondrous Item,Yes
+Butchers Bib,,,501-5000,Rare,EGW,266,Wondrous Item,Yes
+Corpse Slayer,,,501-5000,Rare,EGW,266,Weapons,Yes
+Danoth's Visor,,,50001,Legendary,EGW,270,Wondrous Item,Yes
+Duskcrusher,,,5001-50000,Very Rare,EGW,266,Weapons,Yes
+Goggles of Object Reading,,,101-500,Uncommon,EGW,267,Wondrous Item,Yes
+Grimoire Infinitus,,,50001,Legendary,EGW,271,Wondrous Item,Yes
+Grovelthrash,,,Priceless,Artifact,EGW,275,Weapons,Yes
+Hide of the Feral Guardian,,,50001,Legendary,EGW,271,Armor,Yes
+Hunter's Coat,,,50001,Legendary,EGW,267,Armor,Yes
+Infiltrator's Key,,,50001,Legendary,EGW,272,Wondrous Item,Yes
+Lash of Shadows,,,Priceless,Artifact,EGW,276,Weapons,Yes
+Mace of the Black Crown,,,Priceless,Artifact,EGW,276,Weapons,Yes
+Needle of Mending,,,501-5000,Rare,EGW,268,Weapons,Yes
+Nightfall Pearl,,,50001,Legendary,EGW,268,Wondrous Item,Yes
+Orb of the Veil,,,5001-50000,Very Rare,EGW,268,Wondrous Item,Yes
+Prosthetic Limb,,,50-100,Common,EGW,278,Wondrous Item,Yes
+Ring of Obscuring,,,101-500,Uncommon,EGW,269,Rings,Yes
+Ring of Temporal Salvation,,,501-5000,Rare,EGW,269,Rings,Yes
+Rod of Retribution,,,101-500,Uncommon,EGW,269,Rods,Yes
+Ruin's Wake,,,Priceless,Artifact,EGW,277,Weapons,Yes
+Silken Spite,,,Priceless,Artifact,EGW,277,Weapons,Yes
+Spell Bottle,,,50001,Legendary,EGW,269,Wondrous Item,Yes
+Staff of Dunamancy,,,5001-50000,Very Rare,EGW,270,Staffs,Yes
+Staff of the Ivory Claw,,,501-5000,Rare,EGW,270,Staffs,Yes
+Stormgirdle,,,50001,Legendary,EGW,273,Wondrous Item,Yes
+The Bloody End,,,Priceless,Artifact,EGW,278,Weapons,Yes
+Verminshroud,,,50001,Legendary,EGW,273,Wondrous Item,Yes
+Will of the Talon,,,Priceless,Artifact,EGW,279,Weapons,Yes
+Wreath of the Prism,,,50001,Legendary,EGW,274,Wondrous Item,Yes
