@@ -26,12 +26,19 @@ class StoreDetailViewController: NSViewController {
 	@IBOutlet var addItemsButton: NSButton!
 	@IBOutlet var rarityPopup: NSPopUpButton!
 	@IBOutlet var pricePopup: NSPopUpButton!
+	@IBOutlet var libraryButton: NSButton!
 
 	private var store: Store = Store()
+	private var itemDataSource = ItemTableViewDataSource()
 	var delegate: StoreDetailViewControllerDelegate?
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
+
+		itemDataSource.delegate = self
+
+		tableView.dataSource = itemDataSource
+		tableView.delegate = itemDataSource
 
 		removeButton.isEnabled = false
 		set(enabled: false)
@@ -55,7 +62,7 @@ class StoreDetailViewController: NSViewController {
 			try! collection.save()
 		}
 
-		tableView.reloadData()
+		refreshTableView()
 		delegate?.didUpdateStore()
 	}
 
@@ -95,6 +102,44 @@ class StoreDetailViewController: NSViewController {
 		save()
 		removeButton.isEnabled = false
 	}
+	@IBAction func didEdit(_ sender: NSView) {
+		guard let textField = sender as? NSTextField else {
+			return
+		}
+
+		let value = textField.stringValue
+		let row = tableView.row(for: sender)
+		let col = tableView.column(for: sender)
+
+		guard row >= 0, col >= 0 else {
+			return
+		}
+
+		let column = tableView.tableColumns[col]
+
+		let id = column.identifier.rawValue
+		let item = store.items[row]
+
+		switch id {
+		case "name":
+			item.name = value
+		case "price":
+			let result = value.trimmingCharacters(in: CharacterSet(charactersIn: "0123456789.").inverted)
+			if let double = Double(result) {
+				item.priceGP = double
+			}
+		case "source":
+			item.source = value
+		case "page":
+			item.page = value
+		case "description":
+			item.description = value
+		default:
+			fatalError()
+		}
+
+		save()
+	}
 
 	private func update() {
 		store.shopKeeper = ownerName.stringValue
@@ -115,6 +160,7 @@ class StoreDetailViewController: NSViewController {
 		type.isEnabled = enabled
 		rarityPopup.isEnabled = enabled
 		pricePopup.isEnabled = enabled
+		libraryButton.isEnabled = enabled
 	}
 
 	func configure(with store: Store) {
@@ -126,28 +172,34 @@ class StoreDetailViewController: NSViewController {
 		type.selectItem(withTag: store.shopType.tag)
 
 		set(enabled: true)
+		refreshTableView()
+	}
+
+	func refreshTableView() {
+		itemDataSource.items = store.items
 		tableView.reloadData()
 	}
-}
 
-extension StoreDetailViewController: NSTableViewDelegate {
-	func tableView(_ tableView: NSTableView, shouldSelectRow row: Int) -> Bool {
-		removeButton.isEnabled = row >= 0
-		return true
-	}
-}
-
-extension StoreDetailViewController: NSTableViewDataSource {
-	func numberOfRows(in tableView: NSTableView) -> Int {
-		return store.items.count
-	}
-
-	func tableView(_ tableView: NSTableView, viewFor tableColumn: NSTableColumn?, row: Int) -> NSView? {
-		if let cell = tableView.makeView(withIdentifier: NSUserInterfaceItemIdentifier("cellView") , owner: nil) as? NSTableCellView {
-			cell.textField?.stringValue = store.items[row].display
-			return cell
+	override func prepare(for segue: NSStoryboardSegue, sender: Any?) {
+		guard let dest = segue.destinationController as? LibraryViewController else {
+			return
 		}
 
-		return nil
+		dest.delegate = self
+	}
+}
+
+extension StoreDetailViewController: ItemTableViewDataSourceDelegate {
+	func didSelect(row: Int) {
+		removeButton.isEnabled = row >= 0
+	}
+}
+
+extension StoreDetailViewController: LibraryViewControllerDelegate {
+	func add(item: Item) {
+		store.add(items: [item])
+		save()
+
+		refreshTableView()
 	}
 }

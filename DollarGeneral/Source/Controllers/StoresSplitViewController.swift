@@ -39,8 +39,8 @@ class StoresSplitViewController: NSSplitViewController {
 }
 
 extension StoresSplitViewController: StoreListVCDelegate {
-	func didSelect(store: Store) {
-		detailView.configure(with: store)
+	func didSelect(store: Store?) {
+		detailView.configure(with: store ?? Store())
 	}
 }
 

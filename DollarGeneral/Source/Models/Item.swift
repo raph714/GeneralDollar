@@ -46,7 +46,7 @@ enum ItemRarity: String, Codable {
 	case varies
 
 	static var weights: [ItemRarity: Int] {
-		return [.common: 350, .uncommon: 100, .rare: 30, .veryRare: 20, .legendary: 10, .artifact: 3, .varies: 25]
+		return [.common: 750, .uncommon: 150, .rare: 30, .veryRare: 10, .legendary: 3, .artifact: 1, .varies: 25]
 	}
 
 	static var random: ItemRarity {
@@ -112,6 +112,13 @@ class Item: Codable {
 		self.description = description
 	}
 
+	var sourceDisplay: String {
+		if let source = source, let page = page {
+			return "\(source) p.\(page)"
+		}
+		return ""
+	}
+
 	var display: String {
 		var desc = ""
 		desc += "$\(String(format: "%.2f", priceGP))"
@@ -123,8 +130,8 @@ class Item: Codable {
 
 		desc += "\(name)"
 
-		if let source = source, let page = page {
-			desc += "; \(source) p.\(page)"
+		if !sourceDisplay.isEmpty {
+			desc += "; \(sourceDisplay)"
 		}
 
 		if let description = description {
@@ -132,5 +139,14 @@ class Item: Codable {
 		}
 
 		return desc
+	}
+
+	var searchIndex: String {
+		var index = display
+
+		index += " \(type.rawValue) "
+		index += " \(rarity.rawValue) "
+
+		return index.lowercased()
 	}
 }

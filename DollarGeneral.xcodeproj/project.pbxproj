@@ -21,6 +21,8 @@
 		CBAAD22624357C8C00F267CF /* StoreDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAAD22524357C8C00F267CF /* StoreDetailViewController.swift */; };
 		CBAAD22824357C9000F267CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBAAD22724357C9000F267CF /* Assets.xcassets */; };
 		CBAAD22B24357C9000F267CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBAAD22924357C9000F267CF /* Main.storyboard */; };
+		CBB9369924468AEF00EB57AF /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB9369824468AEF00EB57AF /* LibraryViewController.swift */; };
+		CBB9369B24468B4700EB57AF /* ItemTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB9369A24468B4700EB57AF /* ItemTableViewDataSource.swift */; };
 		CBE402F824381B730077759C /* StoreListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE402F724381B730077759C /* StoreListViewController.swift */; };
 		CBE402FA243827F30077759C /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE402F9243827F30077759C /* Library.swift */; };
 /* End PBXBuildFile section */
@@ -43,6 +45,8 @@
 		CBAAD22A24357C9000F267CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CBAAD22C24357C9000F267CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CBAAD22D24357C9000F267CF /* DollarGeneral.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DollarGeneral.entitlements; sourceTree = "<group>"; };
+		CBB9369824468AEF00EB57AF /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
+		CBB9369A24468B4700EB57AF /* ItemTableViewDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTableViewDataSource.swift; sourceTree = "<group>"; };
 		CBE402F724381B730077759C /* StoreListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreListViewController.swift; sourceTree = "<group>"; };
 		CBE402F9243827F30077759C /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,6 +107,8 @@
 				CB24B09A2435B89700CEC343 /* StoresSplitViewController.swift */,
 				CBAAD22524357C8C00F267CF /* StoreDetailViewController.swift */,
 				CBE402F724381B730077759C /* StoreListViewController.swift */,
+				CBB9369824468AEF00EB57AF /* LibraryViewController.swift */,
+				CBB9369A24468B4700EB57AF /* ItemTableViewDataSource.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -230,8 +236,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB24B0B5243801A600CEC343 /* Item.swift in Sources */,
+				CBB9369924468AEF00EB57AF /* LibraryViewController.swift in Sources */,
 				CBE402F824381B730077759C /* StoreListViewController.swift in Sources */,
 				CB24B09B2435B89700CEC343 /* StoresSplitViewController.swift in Sources */,
+				CBB9369B24468B4700EB57AF /* ItemTableViewDataSource.swift in Sources */,
 				CB24B0992435B0E500CEC343 /* Store.swift in Sources */,
 				CBAAD22624357C8C00F267CF /* StoreDetailViewController.swift in Sources */,
 				CB24B0B7243816FC00CEC343 /* JSONEncoderExtension.swift in Sources */,
